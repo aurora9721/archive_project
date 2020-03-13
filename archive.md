@@ -10,7 +10,7 @@ What is the meaning of each of your transcodings?
 Make it accessible: myth, video game, physical space, ritual  
 What would be the topic(s) that this artefact brings up?  
 
-!(/assets/images/Board game_small.png)
+![](/assets/images/Board game_small.png)
 
 **Board game** (1975-1999) 30x43cm
 About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen
