@@ -2,6 +2,17 @@
 
 ## IMD: FNV/Philips Board Game
 
+### Transcoding Timeline  
+
+*************
+
+TRANSCODING 1  
+
+*************
+
+> **Feedback 15/03/2020:**  
+
+
 > **Feedback 20/02/2020:**  
 important when selecting it is the material and form of it, for transcoding  
 Think about how you'd document it if it were to disappear  
