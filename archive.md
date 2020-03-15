@@ -9,7 +9,7 @@
 *************
 
 #### TRANSCODING 1  
-_Transcript of the board game in Dutch:_  
+_Transcript of the board game in DUTCH:_  
 START  
 - 1 dobbelsteen gebruiken
 - Wie 't hoogst gooit begint
@@ -234,6 +234,239 @@ START
 65.  
 Als u wint, kunt u een prijs afhalen bij de ondernemingsraad, voor 1 November en zolang de voorraad strekt  
 KIES IB Industriebond FNV
+
+
+*************
+
+*************
+
+#### TRANSCODING 1.1  
+_Transcript of the board game in ENGLISH:_  
+START  
+- Use 1 die
+- Whoever throws the highest starts
+- Perform only one assignment per turn
+- At the finish, decrease the number of eyes that you have not set  
+
+1.  
+  - You don't have a pass yet
+  - Back to START  
+
+2.  
+  - You ask for storage
+  - skip 1 turn  
+
+3. (BLANK)  
+
+4.  
+  - You get coffee for your colleagues
+  - On to 8  
+
+5.  
+  - You get coffee for your chef
+  - Back to 3  
+
+6. (BLANK)  
+
+7.  
+  - You can take Arabic courses
+  - On to 12  
+
+8. (BLANK)  
+
+9.  
+  - Did not participate in the work meeting
+  - Back to 6  
+
+10.  
+  - You say nothing at the work meeting
+  - 1 extra turn  
+
+11.  
+  - You ask for something at the work meeting
+  - skip 1 turn  
+
+12. (BLANK)  
+
+13.  
+  - You spend a lot of time with your supervisor at the office
+  - On to 17  
+
+14. (BLANK)  
+
+15.  
+  - Your first assessment was not good
+  - Back to 12  
+
+16.  
+  - You agree with your boss
+  - 1 extra turn  
+
+17. (Industry Association Logo)  
+
+18.  
+  - The guard will catch you with a Philips pen
+  - skip 1 turn  
+
+19.  
+  - You talk about the FNV during working hours
+  - On to 25  
+
+20. (BLANK)  
+
+21.  
+  - The boss sees you working overtime
+  - On to 22  
+
+22. (BLANK)  
+
+23.  
+  - You hang dirty pictures
+  - Back to 8  
+
+24.  
+  - You make your boss a member of the FNV
+  - On to 34  
+
+25. (BLANK)  
+
+26.  
+  - You become a member of the FNV
+  - On to 28  
+
+27.  
+  - You joined the FNV
+  - As many eyes back as you throw  
+
+28. (BLANK)  
+
+29.  
+  - Collective day off
+  - Skip everyone for 1 turn  
+
+30.  
+  - You read the or board reports
+  - 1 extra turn  
+
+31. (BLANK)  
+
+32.  
+  - No more promotional opportunities
+  - Wait until everyone is over  
+
+33.  
+  - You show understanding for the management
+  - 1 extra turn  
+
+34. (Industry Association Logo)  
+
+35.  
+  - You are for shorter work - 35 hours
+  - On to 39  
+
+36.  
+  - You want May 1 off
+  - 1 extra turn  
+
+37. (BLANK)  
+
+38.  
+  - You earn in
+  - 1 place forward  
+
+39. (Industry Association Logo)  
+
+40.  
+  - You hit your boss on the face
+  - Back to 3  
+
+41.  
+  - The Works Council approves the merger
+  - Everyone to 34  
+
+42.  
+  - You have an idea
+  - On to 43  
+
+43. (BLANK)  
+
+44.  
+  - You get 1 1/2 step unfortunately, you are stabilized
+  - Back to 34  
+
+45.  
+  - You vote FNV
+  - 1 extra turn  
+
+46. ​​(BLANK)  
+
+47.  
+  - Reorganization!
+  - Each stands in the place of his left neighbor  
+
+48.  
+  - You are against choice working hours
+  - On to 54  
+
+49. (Industry Association Logo)  
+
+50.  
+  - You are complaining about your work
+  - Swap your place with the rear player  
+
+51. (BLANK)  
+
+52.  
+  - You promote
+  - All other players return 3 places  
+
+53.  
+  - Congratulations! You can rest
+  - But at 39  
+
+54. (BLANK)  
+
+55.  
+  - You are often ill for a day
+  - skip 3 turns  
+
+56. (BLANK)  
+
+57.  
+  - The toilet door is jammed
+  - Wait for someone else to take your place  
+
+58.  
+  - The doctor will prescribe you rest
+  - Wait until you roll 6  
+
+59.  
+  - You retire early
+  - Back to START  
+
+60.  
+  - You demand a say
+  - On the next turn 3x the number of eyes forward  
+
+61.  
+  - You're getting stressed
+  - Back to 56  
+
+62.  
+  - Wage measure
+  - Back where you came from  
+
+63.  
+  - You press
+  - Move the next 3 turns backwards  
+
+64.  
+  - You work with your elbows
+  - Back to 46  
+
+65.  
+If you win, you can pick up a prize from the works council before November 1 and while supplies last  
+CHOOSE IB Industriebond FNV  
 
 
 *************
