@@ -9,7 +9,7 @@
 *************
 
 #### TRANSCODING 1  
-Transcript of the board game:  
+_Transcript of the board game:_  
 START  
 - 1 dobbelsteen gebruiken
 - Wie 't hoogst gooit begint
@@ -36,6 +36,204 @@ START
 
 6. (BLANK)  
 
+7.  
+  - U mag op cursus arabisch
+  - Door naar 12  
+
+8. (BLANK)  
+
+9.  
+  - Niet aan het werkoverleg deelgenomen
+  - Terug naar 6  
+
+10.  
+  - U zegt niets op het werkoverleg
+  - 1 beurt extra  
+
+11.  
+  - U vraagt iets op het werkoverleg
+  - 1 beurt overslaan  
+
+12. (BLANK)  
+
+13.  
+  - U zit erg veel bij uw chef op kantoor
+  - Door naar 17  
+
+14. (BLANK)  
+
+15.  
+  - Uw eerste beoordeling was niet best
+  - Terug naar 12  
+
+16.  
+  - U geeft uw chef gelijk
+  - 1 beurt extra  
+
+17. (BLANK?)  
+
+18.  
+  - De bewaker betrapt u met een Philips-pen
+  - 1 beurt overslaan  
+
+19.  
+  - U praat over de FNV onder werktijd
+  - Door naar 25  
+
+20. (BLANK)  
+
+21.  
+  - De baas ziet u overwerken
+  - Door naar 22  
+
+22. (BLANK)  
+
+23.  
+  - U hangt vieze plaatjes op
+  - Terug naar 8  
+
+24.  
+  - U maakt uw chef lid van de FNV
+  - Door naar 34  
+
+25. (BLANK)  
+
+26.  
+  - U wordt lid van de FNV
+  - Door naar 28  
+
+27.  
+  - U staakte mee met de FNV
+  - Zoveel ogen terug als u gooit  
+
+28. (BLANK)  
+
+29.  
+  - Kollektieve vrije dag
+  - Iedereen 1 beurt overslaan  
+
+30.  
+  - U leest de or bordverslagen
+  - 1 beurt extra  
+31. (BLANK)  
+
+32.  
+  - Geen promotie- mogelijkheden meer
+  - Wacht tot iedereen voorbij is  
+
+33.  
+  - U toont begrip voor de direktie
+  - 1 beurt extra  
+
+34. (BLANK?)  
+
+35.  
+  - U bent voor korter werken - 35 uur
+  - Door naar 39  
+
+36.  
+  - U wilt 1 mei vrij
+  - 1 beurt extra  
+
+37. (BLANK)  
+
+38.  
+  - U verdient in
+  - 1 plaats vooruit  
+
+39. (BLANK?)  
+
+40.  
+  - U slaat uw chef op zijn gezicht
+  - Terug naar 3  
+
+41.  
+  - De or keurt de fusie goed
+  - Iedereen naar 34  
+
+42.  
+  - U krijgt een idee
+  - Door naar 43  
+
+43. (BLANK)  
+
+44.  
+  - U krijgt 1 1/2 stap helaas, u bent gestabiliseerd
+  - Terug naar 34  
+
+45.  
+  - U stemt FNV
+  - 1 beurt extra  
+
+46. (BLANK)  
+
+47.  
+  - Reorganisatie!
+  - Ieder gaat op de plaats van zijn linker buurman staan  
+
+48.  
+  - U bent tegen keuzewerktijden
+  - Door naar 54  
+
+49. (BLANK?)  
+
+50.  
+  - U kankert over uw werk
+  - Ruil uw plaats met de achterste speler  
+
+51. (BLANK)  
+
+52.  
+  - U maakt promotie
+  - Alle andere spelers 3 plaatsen terug  
+
+53.  
+  - Gefeliciteerd! U mag uitrusten
+  - Maar wel op 39  
+
+54. (BLANK)  
+
+55.  
+  - U bent vaak een dag ziek
+  - 3 beurten overslaan  
+
+56. (BLANK)  
+
+57.  
+  - De deur van de WC klemt
+  - Wacht tot een ander uw plaats inneemt  
+
+58.  
+  - De dokter schrijft u rust voor
+  - Wacht tot u 6 gooit  
+
+59.  
+  - U treedt vervroegd uit
+  - Terug naar START  
+
+60.  
+  - U eist inspraak
+  - Bij de volgende beurt 3x het aantal ogen vooruit  
+
+61.  
+  - U raakt overspannen
+  - Terug naar 56  
+
+62.  
+  - Loonmaatregel
+  - Terug waar u vandaan komt  
+
+63.  
+  - U dringt voor
+  - De volgende 3 beurten achterwaarts zetten  
+
+64.  
+  - U werkt met uw ellebogen
+  - Terug naar 46  
+
+65.  
+Als u wint, kunt u een prijs afhalen bij de ondernemingsraad, voor 1 November en zolang de voorraad strekt  
+KIES IB Industriebond FNV
 
 
 *************
