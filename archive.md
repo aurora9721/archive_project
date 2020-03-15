@@ -70,7 +70,7 @@ START
   - U geeft uw chef gelijk
   - 1 beurt extra  
 
-17. (BLANK?)  
+17. (Industriebond Logo)  
 
 18.  
   - De bewaker betrapt u met een Philips-pen
