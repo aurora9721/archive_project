@@ -8,7 +8,35 @@
 
 *************
 
-####      TRANSCODING 1  
+#### TRANSCODING 1  
+Transcript of the board game:  
+START  
+- 1 dobbelsteen gebruiken
+- Wie 't hoogst gooit begint
+- Per beurt maar één opdracht uitvoeren
+- Bij de finish gaat u het aantal ogen dat u niet gezet hebt weer achteruit  
+
+1.  
+  - U heeft nog geen pasje
+  - Terug naar START  
+
+2.  
+  - U vraagt om opslag
+  - 1 beurt overslaan  
+
+3. (BLANK)  
+
+4.  
+  - U haalt koffie voor uw kollega's
+  - Door naar 8  
+
+5.  
+  - U haalt koffie voor uw chef
+  - Terug naar 3  
+
+6. (BLANK)  
+
+
 
 *************
 
