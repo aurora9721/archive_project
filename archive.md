@@ -9,7 +9,7 @@
 *************
 
 #### TRANSCODING 1  
-_Transcript of the board game:_  
+_Transcript of the board game in Dutch:_  
 START  
 - 1 dobbelsteen gebruiken
 - Wie 't hoogst gooit begint
@@ -125,7 +125,7 @@ START
   - U toont begrip voor de direktie
   - 1 beurt extra  
 
-34. (BLANK?)  
+34. (Industriebond Logo)  
 
 35.  
   - U bent voor korter werken - 35 uur
@@ -141,7 +141,7 @@ START
   - U verdient in
   - 1 plaats vooruit  
 
-39. (BLANK?)  
+39. (Industriebond Logo)  
 
 40.  
   - U slaat uw chef op zijn gezicht
@@ -175,7 +175,7 @@ START
   - U bent tegen keuzewerktijden
   - Door naar 54  
 
-49. (BLANK?)  
+49. (Industriebond Logo)  
 
 50.  
   - U kankert over uw werk
