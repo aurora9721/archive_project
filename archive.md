@@ -479,7 +479,29 @@ CHOOSE IB Industriebond FNV
 1. Outlined the path of the boardgame as a spline on Cinema4D
 2. Extruded it to create a navigable 3D space
 3. Used arches/tunnels to visualise the links between different parts of the board, the squares that are linked by instructions/conditions.
-4. Colour-coded connections based on whether you advance or backtrack in the game: red = forward, blue = backwards.
+4. Colour-coded connections based on whether you advance or backtrack in the game: red = forward, blue = backwards.  
+  - 4 -> 8
+  - 5 -> 3
+  - 7 -> 12
+  - **9 -> 6**
+  - 13 -> 17
+  - 15 -> 12
+  - 19 -> 25
+  - 21 -> 22
+  - 23 -> 8
+  - **24 -> 34**
+  - **26 -> 28**
+  - 35 -> 39
+  - **40 -> 3**
+  - 41 -> 34
+  - **42 -> 43**
+  - 44 -> 34
+  - 48 -> 54
+  - **53 -> 39**
+  - 58 -> 6
+  - 59 -> START
+  - **61 -> 56**
+  - 64 -> 46
 
 ![](/assets/images/spline.png)
 ![](/assets/images/extrude.png)
