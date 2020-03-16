@@ -10,6 +10,7 @@
 
 #### TRANSCODING 1  
 _Transcript of the board game in DUTCH:_  
+
 START  
 - 1 dobbelsteen gebruiken
 - Wie 't hoogst gooit begint
@@ -242,6 +243,7 @@ KIES IB Industriebond FNV
 
 #### TRANSCODING 1.1  
 _Transcript of the board game in ENGLISH:_  
+
 START  
 - Use 1 die
 - Whoever throws the highest starts
@@ -470,7 +472,16 @@ CHOOSE IB Industriebond FNV
 
 
 *************
+*************
 
+#### TRANSCODING 2  
+
+Outlined the path of the boardgame as a spline on Cinema4D and then extruded it to create a navigable 3D space.  
+
+![](/assets/images/spline.png)
+![](/assets/images/extrude.png)
+
+*************
 
 > **Feedback 20/02/2020:**  
 important when selecting it is the material and form of it, for transcoding  
