@@ -476,10 +476,14 @@ CHOOSE IB Industriebond FNV
 
 #### TRANSCODING 2  
 
-Outlined the path of the boardgame as a spline on Cinema4D and then extruded it to create a navigable 3D space.  
+1. Outlined the path of the boardgame as a spline on Cinema4D
+2. Extruded it to create a navigable 3D space
+3. Used arches/tunnels to visualise the links between different parts of the board, the squares that are linked by instructions/conditions.
 
 ![](/assets/images/spline.png)
 ![](/assets/images/extrude.png)
+![](/assets/images/connections.png)
+![](/assets/images/connections2.png)
 
 *************
 
