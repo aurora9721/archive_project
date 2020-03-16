@@ -263,7 +263,7 @@ START
 - At the finish, decrease the number of eyes that you have not set  
 
 1.  
-  - You don't have a pass yet
+  - You don't have a pass yet  
   - Back to START  
 
 2.  
