@@ -1,33 +1,14 @@
 # TRANSCODING PROJECT
 
 #### Table of Contents:  
-1. [Transcoding 1](#transcoding-1) + 1.1: Transcribing + translating  
-2. Transcoding 2: 3D maze  
-3. Feedback log  
-4. Background info on the game
-5. Contextual info & research
+1. [Transcoding 1](#transcoding-1) + [Transcoding 1.1](#transcoding-1.1): Transcribing + translating  
+2. [Transcoding 2](#transcoding-2): 3D maze  
+3. [Feedback log](#feedback-log)  
+4. [Background info on the game](#background-information)  
+5. [Contextual info & research](#context-&-research)
 
 ## IMD: FNV/Philips Board Game
-
-### Transcoding Timeline  
-
-> **Feedback 15/03/2020:**  
-Interpretative VS Representational
-Do some more representational transcoding so it becomes more clear where it comes from.
-To contextualise the artifact
-First jumps should maybe be representational, still clear where they come from
-Later jumps can become more abstract
-Maybe first step is to digitise it, cleaned up
-Archiving - documenting. How can someone get a mental image of this artefact without seeing it?
-Check Wikipedia page for an image with all its metadata - How is it structured?
-Research on FNV + Philips specifically
-Get in touch with Vincent, he has nice sketches
-Break down the meaning of the different squares - in digital form w hovers to get some context
-A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*
-
-*************
-
-#### Transcoding 1  
+### Transcoding 1  
 _Transcript of the board game in DUTCH:_  
 
 START  
@@ -529,8 +510,8 @@ red = forward, blue = backwards, **bold** = drawn.
 ![](/assets/images/connections3.png)
 ![](/assets/images/connections4.png)
 
-*************
 
+### Feedback Log
 > **Feedback 20/02/2020:**  
 important when selecting it is the material and form of it, for transcoding  
 Think about how you'd document it if it were to disappear  
@@ -538,10 +519,26 @@ Facsimile - representative (capturing the form, a copy of it) and interpretative
 What is the meaning of each of your transcodings?  
 Make it accessible: myth, video game, physical space, ritual  
 What would be the topic(s) that this artefact brings up?  
+*************
+> **Feedback 15/03/2020:**  
+Interpretative VS Representational
+Do some more representational transcoding so it becomes more clear where it comes from.
+To contextualise the artifact
+First jumps should maybe be representational, still clear where they come from
+Later jumps can become more abstract
+Maybe first step is to digitise it, cleaned up
+Archiving - documenting. How can someone get a mental image of this artefact without seeing it?
+Check Wikipedia page for an image with all its metadata - How is it structured?
+Research on FNV + Philips specifically
+Get in touch with Vincent, he has nice sketches
+Break down the meaning of the different squares - in digital form w hovers to get some context
+A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*
+*************
 
 ![](/assets/images/Board_game_small.png)
 
-### FNV Game for Promotion during Elections of Works Council of Philips Telecommunication  
+### Background Information  
+#### FNV Game for Promotion during Elections of Works Council of Philips Telecommunication  
 **Board game** (1975-1999) 30x43cm   
 About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen  
 Made by Industriebond FNV (Federation of Dutch Trade Unions)  
@@ -561,11 +558,8 @@ Staff Member Public Services and Reading Room
 Study Room Services Employee  
 international institute of social history  
 
-### Background Info: Philips and the FNV  
-
-
-
-### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
+### Context & Research
+#### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
 
 ![](/assets/images/healthy_living.jpg)
 
