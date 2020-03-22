@@ -1,7 +1,7 @@
 # TRANSCODING PROJECT
 
 #### Table of Contents:  
-1. `Transcoding 1` (#TRANSCODING 1)+ 1.1: Transcribing + translating  
+1. [Transcoding 1](#TRANS-1) + 1.1: Transcribing + translating  
 2. Transcoding 2: 3D maze  
 3. Feedback log  
 4. Background info on the game
@@ -27,7 +27,7 @@ A game is a system, just like a website- a navigation of information (text, vide
 
 *************
 
-#### TRANSCODING 1  
+#### [TRANSCODING 1](#TRANS-1)  
 _Transcript of the board game in DUTCH:_  
 
 START  
