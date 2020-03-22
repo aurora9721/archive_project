@@ -1,6 +1,6 @@
 # TRANSCODING PROJECT
 
-#### Table of Contents:  
+>>#### Table of Contents:  
 1. [Transcoding 1](#transcoding-1) + [Transcoding 1.1](#transcoding-1.1): Transcribing + translating  
 2. [Transcoding 2](#transcoding-2): 3D maze  
 3. [Feedback log](#feedback-log)  
