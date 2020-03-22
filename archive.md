@@ -1,7 +1,7 @@
 # TRANSCODING PROJECT
 
 #### Table of Contents:  
-1. [`Transcoding 1`](#TRANSCODING 1) + 1.1: Transcribing + translating  
+1. `Transcoding 1` (#TRANSCODING 1)+ 1.1: Transcribing + translating  
 2. Transcoding 2: 3D maze  
 3. Feedback log  
 4. Background info on the game
