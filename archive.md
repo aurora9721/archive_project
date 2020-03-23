@@ -3,9 +3,10 @@
 >>#### Table of Contents:  
 >>1. [Transcoding 1](#transcoding-1) + [Transcoding 1.1](#transcoding-1.1): Transcribing + translating  
 >>2. [Transcoding 2](#transcoding-2): 3D maze  
->>3. [Feedback log](#feedback-log)  
->>4. [Background info on the game](#background-information)  
->>5. [Contextual info & research](#context-&-research)
+>>3. [Potential transcodings](#potential-transcodings)
+>>4. [Feedback log](#feedback-log)  
+>>5. [Background info on the game](#background-information)  
+>>6. [Contextual info & research](#context-&-research)
 
 ## IMD: FNV/Philips Board Game
 ### Transcoding 1  
@@ -508,8 +509,18 @@ red = forward, blue = backwards, **bold** = drawn.
   - **61 -> 56**
   - 64 -> 46
 ![](/assets/images/connections3.png)
-![](/assets/images/connections4.png)
+![](/assets/images/connections4.png)  
 
+### Potential Transcodings  
+
+- ~~Transcribing text~~  
+- ~~Translating text~~  
+- Decision tree  
+- Oral tradition (myth?)  
+- Ritual  
+- Hieroglyphics  
+- ~~3D interactive space~~  
+- 
 
 ### Feedback Log
 > **Feedback 20/02/2020:**  
