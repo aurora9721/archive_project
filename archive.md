@@ -242,7 +242,7 @@ KIES IB Industriebond FNV
 
 *************
 
-#### TRANSCODING 1.1  
+#### Transcoding 1.1  
 _Transcript of the board game in ENGLISH:_  
 
 START  
@@ -475,7 +475,7 @@ CHOOSE IB Industriebond FNV
 *************
 *************
 
-#### TRANSCODING 2  
+#### Transcoding 2  
 
 1. Outlined the path of the boardgame as a spline on Cinema4D
 ![](/assets/images/spline.png)
@@ -511,15 +511,23 @@ red = forward, blue = backwards, **bold** = drawn.
 ![](/assets/images/connections3.png)
 ![](/assets/images/connections4.png)  
 
+*************
+*************
+
+#### Transcoding 3  
+
+
+
 ### Potential Transcodings  
 
 - ~~Transcribing text~~  
 - ~~Translating text~~  
 - Decision tree  
+- Interactive game (site? Unity/C#?)
 - Oral tradition (myth?)  
 - Ritual  
 - Hieroglyphics  
-- ~~3D interactive space~~  
+- ~~3D space~~  
 - Manifesto/political pamphlet  
 
 ### Feedback Log
