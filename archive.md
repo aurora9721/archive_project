@@ -513,14 +513,14 @@ red = forward, blue = backwards, **bold** = drawn.
 
 ### Potential Transcodings  
 
-  - ~~Transcribing text~~  
+- ~~Transcribing text~~  
 - ~~Translating text~~  
 - Decision tree  
 - Oral tradition (myth?)  
 - Ritual  
 - Hieroglyphics  
 - ~~3D interactive space~~  
--
+- Manifesto/political pamphlet  
 
 ### Feedback Log
 > **Feedback 20/02/2020:**  
