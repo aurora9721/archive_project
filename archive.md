@@ -2,11 +2,12 @@
 
 >>#### Table of Contents:  
 >>1. [Transcoding 1](#transcoding-1) + [Transcoding 1.1](#transcoding-1.1): Transcribing + translating  
->>2. [Transcoding 2](#transcoding-2): 3D maze  
->>3. [Potential transcodings](#potential-transcodings)
->>4. [Feedback log](#feedback-log)  
->>5. [Background info on the game](#background-information)  
->>6. [Contextual info & research](#context-&-research)
+>>2. [Transcoding 2](#transcoding-2): Decisions- back and forth
+>>3. [Transcoding 3](#transcoding-3): 3D maze, with movements across board visualised  
+>>4. [Potential transcodings](#potential-transcodings)
+>>5. [Feedback log](#feedback-log)  
+>>6. [Background info on the game](#background-information)  
+>>7. [Contextual info & research](#context-&-research)
 
 ## IMD: FNV/Philips Board Game
 ### Transcoding 1  
@@ -471,11 +472,45 @@ START
 If you win, you can pick up a prize from the works council before November 1 and while supplies last  
 CHOOSE IB Industriebond FNV  
 
-
 *************
 *************
 
 #### Transcoding 2  
+
+This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
+List of squares and the jumps made when you fall on them:
+- 4 -> 8
+- 5 -> 3
+- 7 -> 12
+- **9 -> 6**
+- 13 -> 17
+- 15 -> 12
+- 19 -> 25
+- 21 -> 22
+- 23 -> 8
+- **24 -> 34**
+- **26 -> 28**
+- 35 -> 39
+- **40 -> 3**
+- 41 -> 34
+- **42 -> 43**
+- 44 -> 34
+- 48 -> 54
+- **53 -> 39**
+- 58 -> 6
+- 59 -> START
+- **61 -> 56**
+- 64 -> 46  
+
+Jumps back and forth (consequences) visualised:
+![](/assets/images/connection_paths.png)  
+
+After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
+
+*************
+*************  
+
+#### Transcoding 3  
 
 1. Outlined the path of the boardgame as a spline on Cinema4D
 ![](/assets/images/spline.png)
@@ -486,39 +521,8 @@ CHOOSE IB Industriebond FNV
 ![](/assets/images/connections2.png)
 4. Colour-coded connections based on whether you advance or backtrack in the game:  
 red = forward, blue = backwards, **bold** = drawn.
-  - 4 -> 8
-  - 5 -> 3
-  - 7 -> 12
-  - **9 -> 6**
-  - 13 -> 17
-  - 15 -> 12
-  - 19 -> 25
-  - 21 -> 22
-  - 23 -> 8
-  - **24 -> 34**
-  - **26 -> 28**
-  - 35 -> 39
-  - **40 -> 3**
-  - 41 -> 34
-  - **42 -> 43**
-  - 44 -> 34
-  - 48 -> 54
-  - **53 -> 39**
-  - 58 -> 6
-  - 59 -> START
-  - **61 -> 56**
-  - 64 -> 46
 ![](/assets/images/connections3.png)
 ![](/assets/images/connections4.png)  
-
-*************
-*************
-
-#### Transcoding 3  
-
-After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).  
-
-![](/assets/images/connection_paths.png)
 
 *************
 *************
