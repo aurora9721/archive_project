@@ -566,8 +566,11 @@ Get in touch with Vincent, he has nice sketches
 Break down the meaning of the different squares - in digital form w hovers to get some context
 A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*
 *************  
->**Feedback 23/03/2020:** *with Martijn*  
-
+> **Feedback 23/03/2020:** *with Martijn*  
+Focus of the game: what is the aim? to capture the ideology of the FNV, or the worker's situation?
+Bring back the background info and original intention.
+Gig economy, deliveroo, airbnb, quarantine + unemployment (what role would unions play in this?)
+Consider: emailing the FNV + Philips
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
