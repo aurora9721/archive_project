@@ -518,6 +518,8 @@ red = forward, blue = backwards, **bold** = drawn.
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).  
 
+![](/assets/images/connection_paths.png)
+
 *************
 *************
 
