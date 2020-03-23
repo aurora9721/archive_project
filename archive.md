@@ -244,7 +244,7 @@ KIES IB Industriebond FNV
 [Back to Table of Contents](#table-of-contents)  
 *************
 
-#### Transcoding 2  
+### Transcoding 2  
 _Transcript of the board game in ENGLISH:_  
 
 START  
@@ -473,10 +473,11 @@ START
 If you win, you can pick up a prize from the works council before November 1 and while supplies last  
 CHOOSE IB Industriebond FNV  
 
-*************
+*************  
+[Back to Table of Contents](#table-of-contents)  
 *************
 
-#### Transcoding 3  
+### Transcoding 3  
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
 List of squares and the jumps made when you fall on them:
@@ -508,10 +509,11 @@ Jumps back and forth (consequences) visualised:
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
 
-*************
+*************  
+[Back to Table of Contents](#table-of-contents)  
 *************  
 
-#### Transcoding 4  
+### Transcoding 4  
 
 1. Outlined the path of the boardgame as a spline on Cinema4D
 ![](/assets/images/spline.png)
@@ -525,7 +527,8 @@ red = forward, blue = backwards, **bold** = drawn.
 ![](/assets/images/connections3.png)
 ![](/assets/images/connections4.png)  
 
-*************
+*************  
+[Back to Table of Contents](#table-of-contents)  
 *************
 
 ### Potential Transcodings  
@@ -562,11 +565,15 @@ Research on FNV + Philips specifically
 Get in touch with Vincent, he has nice sketches
 Break down the meaning of the different squares - in digital form w hovers to get some context
 A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*
+*************  
+>**Feedback 23/03/2020:**  
+
+*************
+[Back to Table of Contents](#table-of-contents)  
 *************
 
-![](/assets/images/Board_game_small.png)
-
 ### Background Information  
+![](/assets/images/Board_game_small.png)  
 #### FNV Game for Promotion during Elections of Works Council of Philips Telecommunication  
 **Board game** (1975-1999) 30x43cm   
 About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen  
@@ -586,6 +593,10 @@ With kind regards, 
 Staff Member Public Services and Reading Room  
 Study Room Services Employee  
 international institute of social history  
+
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
 
 ### Context & Research
 #### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
@@ -618,3 +629,7 @@ Set in the 1980's, it tells a story of everyday life in Poland at the tail-end o
 ([https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/))  
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
+
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
