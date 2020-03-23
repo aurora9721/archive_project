@@ -544,7 +544,7 @@ red = forward, blue = backwards, **bold** = drawn.
 - Manifesto/political pamphlet  
 
 ### Feedback Log
-> **Feedback 20/02/2020:**  
+> **Feedback 20/02/2020:** *with Martijn*  
 important when selecting it is the material and form of it, for transcoding  
 Think about how you'd document it if it were to disappear  
 Facsimile - representative (capturing the form, a copy of it) and interpretative (transcoding its meaning, even if the form/visual language are different)  
@@ -552,7 +552,7 @@ What is the meaning of each of your transcodings?
 Make it accessible: myth, video game, physical space, ritual  
 What would be the topic(s) that this artefact brings up?  
 *************
-> **Feedback 15/03/2020:**  
+> **Feedback 15/03/2020:** *with Hannes*  
 Interpretative VS Representational
 Do some more representational transcoding so it becomes more clear where it comes from.
 To contextualise the artifact
@@ -566,7 +566,7 @@ Get in touch with Vincent, he has nice sketches
 Break down the meaning of the different squares - in digital form w hovers to get some context
 A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*
 *************  
->**Feedback 23/03/2020:**  
+>**Feedback 23/03/2020:** *with Martijn*  
 
 *************
 [Back to Table of Contents](#table-of-contents)  
