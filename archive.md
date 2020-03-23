@@ -1,9 +1,10 @@
 # TRANSCODING PROJECT
 
 >>#### Table of Contents:  
->>1. [Transcoding 1](#transcoding-1) + [Transcoding 1.1](#transcoding-1.1): Transcribing + translating  
->>2. [Transcoding 2](#transcoding-2): Decisions- back and forth
->>3. [Transcoding 3](#transcoding-3): 3D maze, with movements across board visualised  
+>>1. [Transcoding 1](#transcoding-1): Transcribing   
+>>2. [Transcoding 2](#transcoding-2): Translating  
+>>2. [Transcoding 3](#transcoding-3): Decisions- back and forth
+>>3. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
 >>4. [Potential transcodings](#potential-transcodings)
 >>5. [Feedback log](#feedback-log)  
 >>6. [Background info on the game](#background-information)  
@@ -243,7 +244,7 @@ KIES IB Industriebond FNV
 
 *************
 
-#### Transcoding 1.1  
+#### Transcoding 2  
 _Transcript of the board game in ENGLISH:_  
 
 START  
@@ -475,7 +476,7 @@ CHOOSE IB Industriebond FNV
 *************
 *************
 
-#### Transcoding 2  
+#### Transcoding 3  
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
 List of squares and the jumps made when you fall on them:
@@ -510,7 +511,7 @@ After making a decision tree, maybe the natural transition is a system of trigge
 *************
 *************  
 
-#### Transcoding 3  
+#### Transcoding 4  
 
 1. Outlined the path of the boardgame as a spline on Cinema4D
 ![](/assets/images/spline.png)
