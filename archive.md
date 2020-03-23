@@ -240,8 +240,8 @@ Als u wint, kunt u een prijs afhalen bij de ondernemingsraad, voor 1 November en
 KIES IB Industriebond FNV
 
 
-*************
-
+*************  
+[Back to Table of Contents](#table-of-contents)  
 *************
 
 #### Transcoding 2  
