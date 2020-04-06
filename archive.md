@@ -638,8 +638,7 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 
 ![](/assets/images/Kilpaajo-peli_board_game_1907_game_board.jpg)
 
-*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)
-([https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg))
+[*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)
 
 ![](/assets/images/stoomboots_spel.jpg)
 
@@ -647,23 +646,20 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 
 ![](/assets/images/wir_sind_das_volk.jpg)
 
-*Wir sind das Volk!* [educational] (Richard Sivél, Peer Sylvester, Germany, 2014)
-"East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."  
-([https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk))
+[*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014)
+"East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."    
 
 ![](/assets/images/kolejka_queue_game.jpg)
 
-*Kolejka (Queue)* [historical, educational] (Karol Madaj, Poland, 2011)
-Set in the 1980's, it tells a story of everyday life in Poland at the tail-end of the Communist era. The players' task appears to be simple: They have to send their family members out to various stores on the game board to buy all the items on their shopping list. The problem is, however, that the shelves in the five neighborhood stores are empty.
-([https://boardgamegeek.com/boardgame/85325/kolejka](https://boardgamegeek.com/boardgame/85325/kolejka))  
+[*Kolejka (Queue)*](https://boardgamegeek.com/boardgame/85325/kolejka) [historical, educational] (Karol Madaj, Poland, 2011)
+Set in the 1980's, it tells a story of everyday life in Poland at the tail-end of the Communist era. The players' task appears to be simple: They have to send their family members out to various stores on the game board to buy all the items on their shopping list. The problem is, however, that the shelves in the five neighborhood stores are empty.  
 
 ![](/assets/images/quantified.png)  
 
-*Quantified* (Janna Ullrich, 2018)  
-In this cooperative board game, a player’s behaviour accumulates a social credit score, leaving traces of data behind for governments and corporations to analyse. Players start from different positions on the social ladder – as refugees, unemployed or employed – with unequal access to human rights, in a world in which everyone’s behavior is constantly surveilled and analysed. By gamifying the complex challenges of migration, participants learn through role playing.
-([http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf))  
+[*Quantified*](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf) (Janna Ullrich, 2018)  
+In this cooperative board game, a player’s behaviour accumulates a social credit score, leaving traces of data behind for governments and corporations to analyse. Players start from different positions on the social ladder – as refugees, unemployed or employed – with unequal access to human rights, in a world in which everyone’s behavior is constantly surveilled and analysed. By gamifying the complex challenges of migration, participants learn through role playing.  
 
-([https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/))  
+([Progress in Play: Board Games and the Meaning of History](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/))  
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 
