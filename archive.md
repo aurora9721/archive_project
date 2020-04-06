@@ -607,7 +607,7 @@ During the Second World War, the Netherlands suffers great losses, is exploited 
 
 The Marshall Plan (1948-1952) helps the Netherlands rebuild itself and become a *welfare state*. In 1952, the Netherlands becomes a member of the European Coal and Steel Community (ECSC), which is the predecessor of the European Economic Community (EEC) and eventually, the European Union. The Netherlands regains its wealth largely through trade, facilitated by the aforementioned. The late 50's and 60's see a *rise in socialism*.  
 
-**Focus on Workers' Rights [[1]](https://www.blikopdewereld.nl/geschiedenis/nederland/geschiedenis-nederland/1001-geschiedenis-van-de-nederlandse-vakbeweging)**  
+**Focus on Workers' Rights [[1]](https://www.blikopdewereld.nl/geschiedenis/nederland/geschiedenis-nederland/1001-geschiedenis-van-de-nederlandse-vakbeweging), [[2]](https://www.vakbondshistorie.nl/tijdbalk-canon/tijdbalk-1975-2000/)**  
 Wim Kok is a key figure - he was chairman of the union NVV through the 60's and he became chairman of the FNV when they merged, from 1976 till 1985. At the time, the FNV is the largest trade union in the country. (He later became prime minister as a member of the PvdA (social democratic Labour Party))  
 
 **Bestek '81** were austerity cuts of around 10 billion guilders, 6.7 billion (more than 3 billion Euros) of which were cuts on social security. This triggered **massive protests** particularly from the labour unions, as unemployment continues to increase despite the austerity cuts.    
