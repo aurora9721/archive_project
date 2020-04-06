@@ -602,9 +602,10 @@ The IISG dates this object to sometime between 1975-1999. It was received at the
 However the FNV as such was only established in 1976, as a joining of the NVV & NKV.
 So to understand the history of this object in the context of workers' rights in the Netherlands at the time, I have to search further back than 1976.  
 
-Setting the scene:
+**Setting the scene:**  
 During the Second World War, the Netherlands suffers great losses, is exploited as a colony by Nazi Germany (largely for industry) and loses its own income from exploiting colonies such as Indonesia (cut economic ties in 1957).  
-The Marshall Plan (1948-1952) helps the Netherlands rebuild itself and become a welfare state. In 1952, the Netherlands becomes a member of the European Coal and Steel Community (ECSC), which is the predecessor of the European Economic Community (EEC) and eventually, the European Union. The Netherlands regains its wealth largely through trade, facilitated by the aforementioned. The late 50's and 60's see a rise in socialism.  
+
+The Marshall Plan (1948-1952) helps the Netherlands rebuild itself and become a *welfare state*. In 1952, the Netherlands becomes a member of the European Coal and Steel Community (ECSC), which is the predecessor of the European Economic Community (EEC) and eventually, the European Union. The Netherlands regains its wealth largely through trade, facilitated by the aforementioned. The late 50's and 60's see a *rise in socialism*.  
 
 
 Wim Kok is a key figure - he was chairman of the union NVV through the 60's and he became chairman of the FNV when they merged, from 1976 till 1985. At the time, the FNV is the largest trade union in the country. (He later became prime minister as a member of the PvdA (social democratic Labour Party))
