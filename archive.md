@@ -610,7 +610,7 @@ The Marshall Plan (1948-1952) helps the Netherlands rebuild itself and become a 
 **Focus on Workers' Rights [[1]](https://www.blikopdewereld.nl/geschiedenis/nederland/geschiedenis-nederland/1001-geschiedenis-van-de-nederlandse-vakbeweging)**  
 Wim Kok is a key figure - he was chairman of the union NVV through the 60's and he became chairman of the FNV when they merged, from 1976 till 1985. At the time, the FNV is the largest trade union in the country. (He later became prime minister as a member of the PvdA (social democratic Labour Party))  
 
-*Bestek '81* were austerity cuts of around 10 billion guilders, 6.7 billion of which were cuts on social security. This triggered massive protests particularly from the labour unions, as unemployment continues to increase despite the austerity cuts.    
+**Bestek '81** were austerity cuts of around 10 billion guilders, 6.7 billion (more than 3 billion Euros) of which were cuts on social security. This triggered **massive protests** particularly from the labour unions, as unemployment continues to increase despite the austerity cuts.    
 
 One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akkoord van) Wassenaar Agreement**, which concluded in 1982 on the following:♦️♦️
 - *Wage moderation*, meaning the government restrains the workers' wages and stops their increase in order to stimulate the economy and curb inflation.
