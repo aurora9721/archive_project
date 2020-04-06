@@ -571,6 +571,9 @@ Focus of the game: what is the aim? to capture the ideology of the FNV, or the w
 Bring back the background info and original intention.
 Gig economy, deliveroo, airbnb, quarantine + unemployment (what role would unions play in this?)
 Consider: emailing the FNV + Philips
+*************   
+> **Feedback 06/04/2020:** *with Hannes*  
+Anyone you can talk to today who has a important role in the FNV? To link its relevance to today. What is the boardgames position? How do we relate to this in a contemporary way? Both the meaning and the artefact. What is the intention behind each transcoding? What media do you feel like working in atm?  
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
@@ -653,6 +656,12 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 *Kolejka (Queue)* [historical, educational] (Karol Madaj, Poland, 2011)
 Set in the 1980's, it tells a story of everyday life in Poland at the tail-end of the Communist era. The players' task appears to be simple: They have to send their family members out to various stores on the game board to buy all the items on their shopping list. The problem is, however, that the shelves in the five neighborhood stores are empty.
 ([https://boardgamegeek.com/boardgame/85325/kolejka](https://boardgamegeek.com/boardgame/85325/kolejka))  
+
+![](/assets/images/quantified.png)  
+
+*Quantified* (Janna Ullrich, 2018)  
+In this cooperative board game, a player’s behaviour accumulates a social credit score, leaving traces of data behind for governments and corporations to analyse. Players start from different positions on the social ladder – as refugees, unemployed or employed – with unequal access to human rights, in a world in which everyone’s behavior is constantly surveilled and analysed. By gamifying the complex challenges of migration, participants learn through role playing.
+([http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf))  
 
 ([https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/))  
 
