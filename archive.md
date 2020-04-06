@@ -577,7 +577,7 @@ Consider: emailing the FNV + Philips
 
 ### Background Information  
 ![](/assets/images/Board_game_small.png)  
-#### ![FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://search.iisg.amsterdam/Record/1037521)  
+#### [FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://search.iisg.amsterdam/Record/1037521)  
 **Board game** (1975-1999) 30x43cm   
 About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen  
 Made by Industriebond FNV (Federation of Dutch Trade Unions)  
@@ -600,11 +600,11 @@ international institute of social history
 #### The History of the FNV, labour unions in the Netherlands and how they relate to Philips  
 The IISG dates this object to sometime between 1975-1999. It was received at the IISG in 1984.
 However the FNV as such was only established in 1976, as a joining of the NVV & NKV.
-So to understand the history of this object in the context of workers' rights in the Netherlands at the time, I have to search further back than 1976.
+So to understand the history of this object in the context of workers' rights in the Netherlands at the time, I have to search further back than 1976.  
 Wim Kok is a key figure - he was chairman of the union NVV through the 60's and he became chairman of the FNV when they merged, from 1976 till 1985. At the time, the FNV is the largest trade union in the country.
 One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akkoord van) Wassenaar Agreement**, which concluded in 1982 on the following:♦️
 - *Wage moderation*, meaning the government restrains the workers' wages and stops their increase in order to stimulate the economy and curb inflation.
-- And *shorter working times*. "In the Netherlands, the average working time per employee decreased from approximately 1.800 hours per year in 1970 to 1.430 in 2016." ([Wikipedia](https://nl.wikipedia.org/wiki/Arbeidstijdverkorting))
+- And *shorter working times*. "In the Netherlands, the average working time per employee decreased from approximately 1.800 hours per year in 1970 to 1.430 in 2016." ([Wikipedia 1](https://nl.wikipedia.org/wiki/Arbeidstijdverkorting), [2](https://en.wikipedia.org/wiki/Incomes_policy#The_Netherlands_and_Belgium))
 - In exchange for *more employment*.
 
 > ♦️ Note: The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.
