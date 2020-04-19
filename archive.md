@@ -553,18 +553,18 @@ Make it accessible: myth, video game, physical space, ritual
 What would be the topic(s) that this artefact brings up?  
 *************
 > **Feedback 15/03/2020:** *with Hannes*  
-Interpretative VS Representational
-Do some more representational transcoding so it becomes more clear where it comes from.
-To contextualise the artifact
-First jumps should maybe be representational, still clear where they come from
-Later jumps can become more abstract
-Maybe first step is to digitise it, cleaned up
-Archiving - documenting. How can someone get a mental image of this artefact without seeing it?
-Check Wikipedia page for an image with all its metadata - How is it structured?
-Research on FNV + Philips specifically
-Get in touch with Vincent, he has nice sketches
-Break down the meaning of the different squares - in digital form w hovers to get some context
-A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*
+Interpretative VS Representational  
+Do some more representational transcoding so it becomes more clear where it comes from.  
+To contextualise the artifact  
+First jumps should maybe be representational, still clear where they come from  
+Later jumps can become more abstract  
+Maybe first step is to digitise it, cleaned up  
+Archiving - documenting. How can someone get a mental image of this artefact without seeing it?  
+Check Wikipedia page for an image with all its metadata - How is it structured?  
+Research on FNV + Philips specifically  
+Get in touch with Vincent, he has nice sketches  
+Break down the meaning of the different squares - in digital form w hovers to get some context  
+A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*  
 *************  
 > **Feedback 23/03/2020:** *with Martijn*  
 Focus of the game: what is the aim? to capture the ideology of the FNV, or the worker's situation?
