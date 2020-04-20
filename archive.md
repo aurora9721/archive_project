@@ -701,6 +701,7 @@ Also useful:
 The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
 [![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
 
+*************
 ### Feedback Log
 > **Feedback 20/02/2020:** *with Martijn*  
 important when selecting it is the material and form of it, for transcoding  
