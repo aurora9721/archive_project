@@ -1,17 +1,109 @@
 # TRANSCODING PROJECT
 
 >>#### Table of Contents:  
->>1. [Transcoding 1](#transcoding-1): Transcribing   
->>1. [Transcoding 2](#transcoding-2): Translating  
->>1. [Transcoding 3](#transcoding-3): Decisions- back and forth
->>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
->>1. [Potential transcodings](#potential-transcodings)
->>1. [Making a Tool](#making-a-tool)
->>1. [Feedback log](#feedback-log)  
 >>1. [Background info on the game](#background-information)  
->>1. [Contextual info & research](#context-&-research)
+>>1. [Contextual info & research](#context-&-research)   
+>>1. [Transcoding 1](#transcoding-1): Transcribing    
+>>1. [Transcoding 2](#transcoding-2): Translating   
+>>1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
+>>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
+>>1. [Potential transcodings](#potential-transcodings)  
+>>1. [Making a Tool](#making-a-tool)  
+>>1. [Feedback log](#feedback-log)  
 
 ## IMD: FNV/Philips Board Game
+### Background Information  
+![](/assets/images/Board_game_small.png)  
+#### [FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://search.iisg.amsterdam/Record/1037521)  
+**Board game** (1975-1999) 30x43cm   
+About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen  
+Made by Industriebond FNV (Federation of Dutch Trade Unions)  
+FNV is both a labour union (with different sectors, in this case Industry) and a labour federation (with affiliated independent unions)  
+Aim: "Workers' participation", maybe to inform or educate or propose ideas.  
+Print on paper, probably not very durable. Lifespan: Seems to have a lot of writing on it, might become impossible to interpret out of context or too far in the future if language were to change.  
+
+**What is the Aim of this Game?**  
+In order to win the game, the player realises they need the support of the FNV.
+
+>>**E-mail**  
+Dear Aurora,  
+As the scan in the catalogue is quite bad, I went into the storage area today and photographed the game board. You can find the photograph in the attachment. 
+Since it is all in Dutch, some information on the context: this was likely made to promote the candidate of the FNV (the biggest Dutch trade union federation) in upcoming elections for the Works Council of Philips Telecommunication. It had a stamp on the back saying that it was received in 1984. The various squares on the board all represent different things that could happen at work and which will either give you an advantage or a disadvantage. For example, landing on square 26 (‘You join the FNV’) allows you to move up to square 28, whereas landing on square 15 (‘You have a bad performance review’) will set you back to square 12. A lot of squares are related to the union or the Works Council. The message becomes clearest in the center square, which looks like a small election poster with the words ‘Kies industriebond FNV’ (or: ‘Vote for the FNV Industry Union’) on it.  
+I hope this gives you the information you need! 
+With kind regards, 
+**Tobias van der Knaap**  
+([https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap))  
+Staff Member Public Services and Reading Room  
+Study Room Services Employee  
+international institute of social history  
+
+#### The History of the FNV, labour unions in the Netherlands and how they relate to Philips  
+The IISG dates this object to sometime between 1975-1999. It was received at the IISG in 1984.
+However the FNV as such was only established in 1976, as a joining of the NVV & NKV.
+So to understand the history of this object in the context of workers' rights in the Netherlands at the time, I have to search further back than 1976.  
+
+**Setting the scene:**  
+During the Second World War, the Netherlands suffers great losses, is exploited as a colony by Nazi Germany (there is large-scale (partly forced) collaboration in the government and industry♦️) and loses its own income from exploiting colonies such as Indonesia (cut economic ties in 1957).  
+
+The Marshall Plan (1948-1952) helps the Netherlands rebuild itself and become a *welfare state*. In 1952, the Netherlands becomes a member of the European Coal and Steel Community (ECSC), which is the predecessor of the European Economic Community (EEC) and eventually, the European Union. The Netherlands regains its wealth largely through trade, facilitated by the aforementioned. The late 50's and 60's see a *rise in socialism*.  
+
+**Focus on Workers' Rights [[1]](https://www.blikopdewereld.nl/geschiedenis/nederland/geschiedenis-nederland/1001-geschiedenis-van-de-nederlandse-vakbeweging), [[2]](https://www.vakbondshistorie.nl/tijdbalk-canon/tijdbalk-1975-2000/)**  
+Wim Kok is a key figure - he was chairman of the union NVV through the 60's and he became chairman of the FNV when they merged, from 1976 till 1985. At the time, the FNV is the largest trade union in the country. (He later became prime minister as a member of the PvdA (social democratic Labour Party))  
+
+**Bestek '81** were austerity cuts of around 10 billion guilders, 6.7 billion (more than 3 billion Euros) of which were cuts on social security. This triggered **massive protests** particularly from the labour unions, as unemployment continues to increase despite the austerity cuts.    
+
+One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akkoord van) Wassenaar Agreement**, which concluded in 1982 on the following:♦️♦️
+- *Wage moderation*, meaning the government restrains the workers' wages and stops their increase in order to stimulate the economy and curb inflation.
+- And *shorter working times*. "In the Netherlands, the average working time per employee decreased from approximately 1.800 hours per year in 1970 to 1.430 in 2016." ([Wikipedia 1](https://nl.wikipedia.org/wiki/Arbeidstijdverkorting), [2](https://en.wikipedia.org/wiki/Incomes_policy#The_Netherlands_and_Belgium))
+- In exchange for *more employment*.  
+
+> ♦️ Note 1: Philips remained in operation through the Second World War, they had a factory known as Philips-Kommando in Kamp Vught, a Nazi concentration camp near the town of 's-Hertogenbosch. They employed prisioners and offered them protection, saving nearly 400 lives. However, it also has to be noted that Philips remaining open through the war period was key to their survival as a company.  
+
+> ♦️♦️ Note 2: The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.
+
+
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
+
+### Context & Research
+#### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
+
+![](/assets/images/healthy_living.jpg)
+
+*Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
+
+![](/assets/images/Kilpaajo-peli_board_game_1907_game_board.jpg)
+
+[*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)
+
+![](/assets/images/stoomboots_spel.jpg)
+
+*Het Stoomboots Spel* [promotional] (A. Daane, Rotterdam, 1800's)
+
+![](/assets/images/wir_sind_das_volk.jpg)
+
+[*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014)
+"East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."    
+
+![](/assets/images/kolejka_queue_game.jpg)
+
+[*Kolejka (Queue)*](https://boardgamegeek.com/boardgame/85325/kolejka) [historical, educational] (Karol Madaj, Poland, 2011)
+Set in the 1980's, it tells a story of everyday life in Poland at the tail-end of the Communist era. The players' task appears to be simple: They have to send their family members out to various stores on the game board to buy all the items on their shopping list. The problem is, however, that the shelves in the five neighborhood stores are empty.  
+
+![](/assets/images/quantified.png)  
+
+[*Quantified*](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf) (Janna Ullrich, 2018)  
+In this cooperative board game, a player’s behaviour accumulates a social credit score, leaving traces of data behind for governments and corporations to analyse. Players start from different positions on the social ladder – as refugees, unemployed or employed – with unequal access to human rights, in a world in which everyone’s behavior is constantly surveilled and analysed. By gamifying the complex challenges of migration, participants learn through role playing.  
+
+([Progress in Play: Board Games and the Meaning of History](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/))  
+
+"The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
+
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
+
 ### Transcoding 1  
 _Transcript of the board game in DUTCH:_  
 
@@ -554,14 +646,14 @@ With these keywords I want to be able to scan the headlines of several news sour
 *Using an API?*  
 ["An API [...] is the part of the server that receives requests and sends responses. APIs allow [the user] to complete the action without leaving your website."](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)  
 *A filtered RSS feed?*  
-What's an RSS feed in the first place?  
+*What's an RSS feed in the first place?*  
 "RSS is a way for website authors to publish notifications of new content on their website. This content may include newscasts, blog posts, weather reports, and podcasts.  
 To publish these notifications, the website author creates a text file with the XML file extension for the RSS feed that contains the title, description, and link for each post on the site. Then, the website author uses this XML file to add an RSS feed to web pages on the site. The XML file automatically syndicates new content through this RSS feed in a standard format that displays in any RSS reader.  
 When website visitors subscribe to this RSS feed, they read the new website content in an RSS reader. These RSS readers collect content from multiple XML files, organize the information, and display the content in one application." (for source, click on the image below)  
 [![](/assets/images/RSS_screenshot.jpg)](https://www.lifewire.com/what-is-an-rss-feed-4684568)
 Also useful:  
 [How to Format RSS: Adding Style to a Feed (CSS)](https://www.lifewire.com/how-to-format-rss-3469302)  
-[News feeds from the BBC](https://www.bbc.com/news/10628494)
+[News feeds from the BBC](https://www.bbc.com/news/10628494)  
 *Okay, but can I further filter the RSS feed? How can I implement keywords?*  
 The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
 [![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
@@ -599,98 +691,6 @@ Consider: emailing the FNV + Philips
 Anyone you can talk to today who has a important role in the FNV? To link its relevance to today. What is the boardgames position? How do we relate to this in a contemporary way? Both the meaning and the artefact. What is the intention behind each transcoding? What media do you feel like working in atm?  
 *************   
 > **Feedback 20/04/2020:** *with Martijn*  
-
-*************
-[Back to Table of Contents](#table-of-contents)  
-*************
-
-### Background Information  
-![](/assets/images/Board_game_small.png)  
-#### [FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://search.iisg.amsterdam/Record/1037521)  
-**Board game** (1975-1999) 30x43cm   
-About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen  
-Made by Industriebond FNV (Federation of Dutch Trade Unions)  
-FNV is both a labour union (with different sectors, in this case Industry) and a labour federation (with affiliated independent unions)  
-Aim: "Workers' participation", maybe to inform or educate or propose ideas.  
-Print on paper, probably not very durable. Lifespan: Seems to have a lot of writing on it, might become impossible to interpret out of context or too far in the future if language were to change.  
-
-**What is the Aim of this Game?**  
-In order to win the game, the player realises they need the support of the FNV.
-
->>**E-mail**  
-Dear Aurora,  
-As the scan in the catalogue is quite bad, I went into the storage area today and photographed the game board. You can find the photograph in the attachment. 
-Since it is all in Dutch, some information on the context: this was likely made to promote the candidate of the FNV (the biggest Dutch trade union federation) in upcoming elections for the Works Council of Philips Telecommunication. It had a stamp on the back saying that it was received in 1984. The various squares on the board all represent different things that could happen at work and which will either give you an advantage or a disadvantage. For example, landing on square 26 (‘You join the FNV’) allows you to move up to square 28, whereas landing on square 15 (‘You have a bad performance review’) will set you back to square 12. A lot of squares are related to the union or the Works Council. The message becomes clearest in the center square, which looks like a small election poster with the words ‘Kies industriebond FNV’ (or: ‘Vote for the FNV Industry Union’) on it.  
-I hope this gives you the information you need! 
-With kind regards, 
-**Tobias van der Knaap**  
-([https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap))  
-Staff Member Public Services and Reading Room  
-Study Room Services Employee  
-international institute of social history  
-
-#### The History of the FNV, labour unions in the Netherlands and how they relate to Philips  
-The IISG dates this object to sometime between 1975-1999. It was received at the IISG in 1984.
-However the FNV as such was only established in 1976, as a joining of the NVV & NKV.
-So to understand the history of this object in the context of workers' rights in the Netherlands at the time, I have to search further back than 1976.  
-
-**Setting the scene:**  
-During the Second World War, the Netherlands suffers great losses, is exploited as a colony by Nazi Germany (there is large-scale (partly forced) collaboration in the government and industry♦️) and loses its own income from exploiting colonies such as Indonesia (cut economic ties in 1957).  
-
-The Marshall Plan (1948-1952) helps the Netherlands rebuild itself and become a *welfare state*. In 1952, the Netherlands becomes a member of the European Coal and Steel Community (ECSC), which is the predecessor of the European Economic Community (EEC) and eventually, the European Union. The Netherlands regains its wealth largely through trade, facilitated by the aforementioned. The late 50's and 60's see a *rise in socialism*.  
-
-**Focus on Workers' Rights [[1]](https://www.blikopdewereld.nl/geschiedenis/nederland/geschiedenis-nederland/1001-geschiedenis-van-de-nederlandse-vakbeweging), [[2]](https://www.vakbondshistorie.nl/tijdbalk-canon/tijdbalk-1975-2000/)**  
-Wim Kok is a key figure - he was chairman of the union NVV through the 60's and he became chairman of the FNV when they merged, from 1976 till 1985. At the time, the FNV is the largest trade union in the country. (He later became prime minister as a member of the PvdA (social democratic Labour Party))  
-
-**Bestek '81** were austerity cuts of around 10 billion guilders, 6.7 billion (more than 3 billion Euros) of which were cuts on social security. This triggered **massive protests** particularly from the labour unions, as unemployment continues to increase despite the austerity cuts.    
-
-One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akkoord van) Wassenaar Agreement**, which concluded in 1982 on the following:♦️♦️
-- *Wage moderation*, meaning the government restrains the workers' wages and stops their increase in order to stimulate the economy and curb inflation.
-- And *shorter working times*. "In the Netherlands, the average working time per employee decreased from approximately 1.800 hours per year in 1970 to 1.430 in 2016." ([Wikipedia 1](https://nl.wikipedia.org/wiki/Arbeidstijdverkorting), [2](https://en.wikipedia.org/wiki/Incomes_policy#The_Netherlands_and_Belgium))
-- In exchange for *more employment*.  
-
-> ♦️ Note 1: Philips remained in operation through the Second World War, they had a factory known as Philips-Kommando in Kamp Vught, a Nazi concentration camp near the town of 's-Hertogenbosch. They employed prisioners and offered them protection, saving nearly 400 lives. However, it also has to be noted that Philips remaining open through the war period was key to their survival as a company.  
-
-> ♦️♦️ Note 2: The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.
-
-
-*************
-[Back to Table of Contents](#table-of-contents)  
-*************
-
-### Context & Research
-#### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
-
-![](/assets/images/healthy_living.jpg)
-
-*Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
-
-![](/assets/images/Kilpaajo-peli_board_game_1907_game_board.jpg)
-
-[*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)
-
-![](/assets/images/stoomboots_spel.jpg)
-
-*Het Stoomboots Spel* [promotional] (A. Daane, Rotterdam, 1800's)
-
-![](/assets/images/wir_sind_das_volk.jpg)
-
-[*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014)
-"East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."    
-
-![](/assets/images/kolejka_queue_game.jpg)
-
-[*Kolejka (Queue)*](https://boardgamegeek.com/boardgame/85325/kolejka) [historical, educational] (Karol Madaj, Poland, 2011)
-Set in the 1980's, it tells a story of everyday life in Poland at the tail-end of the Communist era. The players' task appears to be simple: They have to send their family members out to various stores on the game board to buy all the items on their shopping list. The problem is, however, that the shelves in the five neighborhood stores are empty.  
-
-![](/assets/images/quantified.png)  
-
-[*Quantified*](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf) (Janna Ullrich, 2018)  
-In this cooperative board game, a player’s behaviour accumulates a social credit score, leaving traces of data behind for governments and corporations to analyse. Players start from different positions on the social ladder – as refugees, unemployed or employed – with unequal access to human rights, in a world in which everyone’s behavior is constantly surveilled and analysed. By gamifying the complex challenges of migration, participants learn through role playing.  
-
-([Progress in Play: Board Games and the Meaning of History](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/))  
-
-"The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 
 *************
 [Back to Table of Contents](#table-of-contents)  
