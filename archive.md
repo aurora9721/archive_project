@@ -557,8 +557,11 @@ With these keywords I want to be able to scan the headlines of several news sour
 What's an RSS feed in the first place?  
 "RSS is a way for website authors to publish notifications of new content on their website. This content may include newscasts, blog posts, weather reports, and podcasts.  
 To publish these notifications, the website author creates a text file with the XML file extension for the RSS feed that contains the title, description, and link for each post on the site. Then, the website author uses this XML file to add an RSS feed to web pages on the site. The XML file automatically syndicates new content through this RSS feed in a standard format that displays in any RSS reader.  
-When website visitors subscribe to this RSS feed, they read the new website content in an RSS reader. These RSS readers collect content from multiple XML files, organize the information, and display the content in one application." (for source, click on the image below)
+When website visitors subscribe to this RSS feed, they read the new website content in an RSS reader. These RSS readers collect content from multiple XML files, organize the information, and display the content in one application." (for source, click on the image below)  
 [![](/assets/images/RSS_screenshot.jpg)](https://www.lifewire.com/what-is-an-rss-feed-4684568)
+Also useful:  
+[How to Format RSS: Adding Style to a Feed (CSS)](https://www.lifewire.com/how-to-format-rss-3469302)  
+[News feeds from the BBC](https://www.bbc.com/news/10628494)
 *Okay, but can I further filter the RSS feed? How can I implement keywords?*  
 The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
 [![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
