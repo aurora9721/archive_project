@@ -744,6 +744,7 @@ The tool should be a transcoding and represent the board game
 Originally, it was a tool that should produce a transcoding  
 What digital transcoding do you want to make?  
 In 2 weeks have a rough version/prototype of the game/tool  
+Resolution: Use Twine to take the decision based game to the digital realm. Make the game interactive and make an animated visual for the background. 
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
