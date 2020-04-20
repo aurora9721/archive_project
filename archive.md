@@ -2,13 +2,14 @@
 
 >>#### Table of Contents:  
 >>1. [Transcoding 1](#transcoding-1): Transcribing   
->>2. [Transcoding 2](#transcoding-2): Translating  
->>2. [Transcoding 3](#transcoding-3): Decisions- back and forth
->>3. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
->>4. [Potential transcodings](#potential-transcodings)
->>5. [Feedback log](#feedback-log)  
->>6. [Background info on the game](#background-information)  
->>7. [Contextual info & research](#context-&-research)
+>>1. [Transcoding 2](#transcoding-2): Translating  
+>>1. [Transcoding 3](#transcoding-3): Decisions- back and forth
+>>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
+>>1. [Potential transcodings](#potential-transcodings)
+>>1. [Making a Tool](#making-a-tool)
+>>1. [Feedback log](#feedback-log)  
+>>1. [Background info on the game](#background-information)  
+>>1. [Contextual info & research](#context-&-research)
 
 ## IMD: FNV/Philips Board Game
 ### Transcoding 1  
@@ -535,13 +536,14 @@ red = forward, blue = backwards, **bold** = drawn.
 
 - ~~Transcribing text~~  
 - ~~Translating text~~  
-- Decision tree  
+- ~~Decision tree~~
+- ~~3D space~~    
 - Interactive game (site? Unity/C#?)
 - Oral tradition (myth?)  
 - Ritual  
 - Hieroglyphics  
-- ~~3D space~~  
 - Manifesto/political pamphlet  
+-
 
 ### Feedback Log
 > **Feedback 20/02/2020:** *with Martijn*  
@@ -574,6 +576,9 @@ Consider: emailing the FNV + Philips
 *************   
 > **Feedback 06/04/2020:** *with Hannes*  
 Anyone you can talk to today who has a important role in the FNV? To link its relevance to today. What is the boardgames position? How do we relate to this in a contemporary way? Both the meaning and the artefact. What is the intention behind each transcoding? What media do you feel like working in atm?  
+*************   
+> **Feedback 20/04/2020:** *with Martijn*  
+
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
@@ -587,6 +592,9 @@ Made by Industriebond FNV (Federation of Dutch Trade Unions)
 FNV is both a labour union (with different sectors, in this case Industry) and a labour federation (with affiliated independent unions)  
 Aim: "Workers' participation", maybe to inform or educate or propose ideas.  
 Print on paper, probably not very durable. Lifespan: Seems to have a lot of writing on it, might become impossible to interpret out of context or too far in the future if language were to change.  
+
+**What is the Aim of this Game?**  
+In order to win the game, the player realises they need the support of the FNV.
 
 >>**E-mail**  
 Dear Aurora,  
