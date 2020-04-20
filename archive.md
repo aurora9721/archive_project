@@ -110,6 +110,7 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 - ~~Decision tree~~
 - ~~3D space (snakes and ladders? Escher-like architectures?)~~  
 - ~~A manual~~  
+- Digitised, cleaned up copy of the game  
 - Promotional posters  
 - Interactive game (site? Unity/C#?)
 - Oral tradition (myth?)  
@@ -714,21 +715,21 @@ What would be the topic(s) that this artefact brings up?
 > **Feedback 15/03/2020:** *with Hannes*  
 Interpretative VS Representational  
 Do some more representational transcoding so it becomes more clear where it comes from.  
-To contextualise the artifact  
+☑ To contextualise the artifact  
 First jumps should maybe be representational, still clear where they come from  
 Later jumps can become more abstract  
 Maybe first step is to digitise it, cleaned up  
 Archiving - documenting. How can someone get a mental image of this artefact without seeing it?  
 Check Wikipedia page for an image with all its metadata - How is it structured?  
-Research on FNV + Philips specifically  
+☑ Research on FNV + Philips specifically  
 Get in touch with Vincent, he has nice sketches  
-Break down the meaning of the different squares - in digital form w hovers to get some context  
+☑ Break down the meaning of the different squares - in digital form w hovers to get some context  
 A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*  
 *************  
 > **Feedback 23/03/2020:** *with Martijn*  
-Focus of the game: what is the aim? to capture the ideology of the FNV, or the worker's situation?
-Bring back the background info and original intention.
-Gig economy, deliveroo, airbnb, quarantine + unemployment (what role would unions play in this?)
+☑ Focus of the game: what is the aim? to capture the ideology of the FNV, or the worker's situation?
+☑ Bring back the background info and original intention.
+☑ Gig economy, deliveroo, airbnb, quarantine + unemployment (what role would unions play in this?)
 Consider: emailing the FNV + Philips
 *************   
 > **Feedback 06/04/2020:** *with Hannes*  
