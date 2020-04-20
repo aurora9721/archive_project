@@ -111,6 +111,7 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 - ~~3D space (snakes and ladders? Escher-like architectures?)~~  
 - ~~A manual~~  
 - Digitised, cleaned up copy of the game  
+- "Dancing steps" map/step count
 - Promotional posters  
 - Interactive game (site? Unity/C#?)
 - Oral tradition (myth?)  
@@ -739,7 +740,10 @@ What is the boardgames position? How do we relate to this in a contemporary way?
 What is the intention behind each transcoding? What media do you feel like working in atm?  
 *************   
 > **Feedback 20/04/2020:** *with Martijn*  
-
+The tool should be a transcoding and represent the board game  
+Originally, it was a tool that should produce a transcoding  
+What digital transcoding do you want to make?  
+In 2 weeks have a rough version/prototype of the game/tool  
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
