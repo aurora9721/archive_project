@@ -7,6 +7,7 @@
 >>1. [Transcoding 2](#transcoding-2): Translating   
 >>1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
 >>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
+>>1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
 >>1. [Potential transcodings](#potential-transcodings)  
 >>1. [Making a Tool](#making-a-tool)  
 >>1. [Feedback log](#feedback-log)  
