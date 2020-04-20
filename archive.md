@@ -3,12 +3,12 @@
 >>#### Table of Contents:  
 >>1. [Background info on the game](#background-information)  
 >>1. [Contextual info & research](#context-&-research)   
+>>1. [Potential transcodings](#potential-transcodings)  
 >>1. [Transcoding 1](#transcoding-1): Transcribing    
 >>1. [Transcoding 2](#transcoding-2): Translating   
 >>1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
 >>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
 >>1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
->>1. [Potential transcodings](#potential-transcodings)  
 >>1. [Making a Tool](#making-a-tool)  
 >>1. [Feedback log](#feedback-log)  
 
@@ -103,6 +103,18 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
+### Potential Transcodings  
+
+- ~~Transcribing text~~  
+- ~~Translating text~~  
+- ~~Decision tree~~
+- ~~3D space~~  
+- ~~A manual~~  
+- Interactive game (site? Unity/C#?)
+- Oral tradition (myth?)  
+- Ritual  
+- Hieroglyphics  
+- Manifesto/political pamphlet  
 
 ### Transcoding 1  
 _Transcript of the board game in DUTCH:_  
@@ -655,19 +667,6 @@ In the workplace, you'll do badly if you:
 *************  
 [Back to Table of Contents](#table-of-contents)  
 *************
-
-### Potential Transcodings  
-
-- ~~Transcribing text~~  
-- ~~Translating text~~  
-- ~~Decision tree~~
-- ~~3D space~~  
-- ~~A manual~~  
-- Interactive game (site? Unity/C#?)
-- Oral tradition (myth?)  
-- Ritual  
-- Hieroglyphics  
-- Manifesto/political pamphlet  
 
 ### Making a Tool  
 A tool that shows the state of workers' rights and the role of the unions today.
