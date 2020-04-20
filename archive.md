@@ -646,9 +646,11 @@ In the workplace, you'll do badly if you:
 - Steal company office supplies  
 - Your workspace decor is inappropiate  
 - Hit your boss/colleagues
+- Aren't member of a union so it can protect you in the case of a merger  
 - Complain about your work
 - Get sick often
-- Let stress get the better of you
+- Let stress get the better of you  
+- Aren't member of a union so it can represent and defend your interests when the government introduces new wage measures  
 
 *************  
 [Back to Table of Contents](#table-of-contents)  
