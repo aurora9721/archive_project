@@ -11,7 +11,7 @@
 >>1. [Making a Tool](#making-a-tool)  
 >>1. [Feedback log](#feedback-log)  
 
-## IMD: FNV/Philips Board Game
+## IMD/Coding: FNV/Philips Board Game
 ### Background Information  
 ![](/assets/images/Board_game_small.png)  
 #### [FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://search.iisg.amsterdam/Record/1037521)  
@@ -60,7 +60,6 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 > ♦️ Note 1: Philips remained in operation through the Second World War, they had a factory known as Philips-Kommando in Kamp Vught, a Nazi concentration camp near the town of 's-Hertogenbosch. They employed prisioners and offered them protection, saving nearly 400 lives. However, it also has to be noted that Philips remaining open through the war period was key to their survival as a company.  
 
 > ♦️♦️ Note 2: The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.
-
 
 *************
 [Back to Table of Contents](#table-of-contents)  
@@ -624,18 +623,47 @@ red = forward, blue = backwards, **bold** = drawn.
 [Back to Table of Contents](#table-of-contents)  
 *************
 
+### Transcoding 5  
+In the workplace, you'll do well if you:  
+- Get coffee for your colleagues/your boss  
+- Take language courses
+- Spend a lot of time with your supervisor
+- Agree with your boss
+- Talk about the workers' union during working hours  
+- Work overtime and the boss knows
+- Make your boss a member of a union
+- Become a union member  
+- Show understanding for the management  
+- Have shorter work hours  
+- Have good ideas  
+- Vote for the union
+- Get promoted
+In the workplace, you'll do badly if you:  
+- You don't participate in work meetings
+- Your assessments aren't favourable
+- Steal company office supplies  
+- Your workspace decor is inappropiate  
+- Hit your boss/colleagues
+- Complain about your work
+- Get sick often
+- Let stress get the better of you
+
+*************  
+[Back to Table of Contents](#table-of-contents)  
+*************
+
 ### Potential Transcodings  
 
 - ~~Transcribing text~~  
 - ~~Translating text~~  
 - ~~Decision tree~~
-- ~~3D space~~    
+- ~~3D space~~  
+- ~~A manual~~  
 - Interactive game (site? Unity/C#?)
 - Oral tradition (myth?)  
 - Ritual  
 - Hieroglyphics  
 - Manifesto/political pamphlet  
--
 
 ### Making a Tool  
 A tool that shows the state of workers' rights and the role of the unions today.
