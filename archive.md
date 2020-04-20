@@ -679,6 +679,14 @@ With these keywords I want to be able to scan the headlines of several news sour
 ["An API [...] is the part of the server that receives requests and sends responses. APIs allow [the user] to complete the action without leaving your website."](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)  
 *A filtered RSS feed?*  
 *What's an RSS feed in the first place?*  
+"What is RSS?
+RSS stands for Really Simple Syndication  
+RSS allows you to syndicate your site content  
+RSS defines an easy way to share and view headlines and content  
+RSS files can be automatically updated  
+RSS allows personalized views for different sites  
+RSS is written in XML"  
+[w3schools: XML RSS](https://www.w3schools.com/xml/xml_rss.asp)
 "RSS is a way for website authors to publish notifications of new content on their website. This content may include newscasts, blog posts, weather reports, and podcasts.  
 To publish these notifications, the website author creates a text file with the XML file extension for the RSS feed that contains the title, description, and link for each post on the site. Then, the website author uses this XML file to add an RSS feed to web pages on the site. The XML file automatically syndicates new content through this RSS feed in a standard format that displays in any RSS reader.  
 When website visitors subscribe to this RSS feed, they read the new website content in an RSS reader. These RSS readers collect content from multiple XML files, organize the information, and display the content in one application." (for source, click on the image below)  
