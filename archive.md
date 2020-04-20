@@ -638,7 +638,8 @@ In the workplace, you'll do well if you:
 - Have shorter work hours  
 - Have good ideas  
 - Vote for the union
-- Get promoted
+- Get promoted  
+
 In the workplace, you'll do badly if you:  
 - You don't participate in work meetings
 - Your assessments aren't favourable
