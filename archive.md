@@ -108,14 +108,15 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 - ~~Transcribing text~~  
 - ~~Translating text~~  
 - ~~Decision tree~~
-- ~~3D space~~  
+- ~~3D space (snakes and ladders? Escher-like architectures?)~~  
 - ~~A manual~~  
+- Promotional posters  
 - Interactive game (site? Unity/C#?)
 - Oral tradition (myth?)  
 - Ritual  
 - Hieroglyphics  
 - Manifesto/political pamphlet  
-
+*************
 ### Transcoding 1  
 _Transcript of the board game in DUTCH:_  
 
