@@ -549,6 +549,7 @@ red = forward, blue = backwards, **bold** = drawn.
 A tool that shows the state of workers' rights and the role of the unions today.
 I want to use key words such as #workersunion #fnv #unemployment #workhours #wages #socialprotection #paidleave #welfarestate #workersrights ...etc.
 With these keywords I want to be able to scan the headlines of several news sources and pick out related articles that contain those terms and therefore relate to the topic.  
+
 ***How can I do this?***  
 *Using an API?*  
 ["An API [...] is the part of the server that receives requests and sends responses. APIs allow [the user] to complete the action without leaving your website."](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)  
