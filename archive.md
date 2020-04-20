@@ -733,7 +733,10 @@ A game is a system, just like a website- a navigation of information (text, vide
 Consider: emailing the FNV + Philips
 *************   
 > **Feedback 06/04/2020:** *with Hannes*  
-Anyone you can talk to today who has a important role in the FNV? To link its relevance to today. What is the boardgames position? How do we relate to this in a contemporary way? Both the meaning and the artefact. What is the intention behind each transcoding? What media do you feel like working in atm?  
+Anyone you can talk to today who has a important role in the FNV?  
+To link its relevance to today.  
+What is the boardgames position? How do we relate to this in a contemporary way? Both the meaning and the artefact.  
+What is the intention behind each transcoding? What media do you feel like working in atm?  
 *************   
 > **Feedback 20/04/2020:** *with Martijn*  
 
