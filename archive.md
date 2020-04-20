@@ -553,7 +553,7 @@ With these keywords I want to be able to scan the headlines of several news sour
 Using an API?  
 ["An API [...] is the part of the server that receives requests and sends responses. APIs allow [the user] to complete the action without leaving your website."](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)  
 A filtered RSS feed?  
-[[/assets/images/RSS_screenshot.jpg]()](https://www.lifewire.com/what-is-an-rss-feed-4684568)
+[[](/assets/images/RSS_screenshot.jpg)](https://www.lifewire.com/what-is-an-rss-feed-4684568)
 ### Feedback Log
 > **Feedback 20/02/2020:** *with Martijn*  
 important when selecting it is the material and form of it, for transcoding  
