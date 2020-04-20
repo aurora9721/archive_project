@@ -550,10 +550,18 @@ A tool that shows the state of workers' rights and the role of the unions today.
 I want to use key words such as #workersunion #fnv #unemployment #workhours #wages #socialprotection #paidleave #welfarestate #workersrights ...etc.
 With these keywords I want to be able to scan the headlines of several news sources and pick out related articles that contain those terms and therefore relate to the topic.  
 ***How can I do this?***  
-Using an API?  
+*Using an API?*  
 ["An API [...] is the part of the server that receives requests and sends responses. APIs allow [the user] to complete the action without leaving your website."](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)  
-A filtered RSS feed?  
+*A filtered RSS feed?*  
+What's an RSS feed in the first place?  
+"RSS is a way for website authors to publish notifications of new content on their website. This content may include newscasts, blog posts, weather reports, and podcasts.  
+To publish these notifications, the website author creates a text file with the XML file extension for the RSS feed that contains the title, description, and link for each post on the site. Then, the website author uses this XML file to add an RSS feed to web pages on the site. The XML file automatically syndicates new content through this RSS feed in a standard format that displays in any RSS reader.  
+When website visitors subscribe to this RSS feed, they read the new website content in an RSS reader. These RSS readers collect content from multiple XML files, organize the information, and display the content in one application." (for source, click on the image below)
 [![](/assets/images/RSS_screenshot.jpg)](https://www.lifewire.com/what-is-an-rss-feed-4684568)
+*Okay, but can I further filter the RSS feed? How can I implement keywords?*  
+The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
+[![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
+
 ### Feedback Log
 > **Feedback 20/02/2020:** *with Martijn*  
 important when selecting it is the material and form of it, for transcoding  
