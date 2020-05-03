@@ -714,7 +714,7 @@ The format of the game is very straight forward, it's the Game of Goose. The boa
 However, I was interested in the professional ladder becoming a bigger part of the game. As you play, it is clear it has levels but it isn't visualised on the board. I instantly thought of the game snakes and ladders (following the train of thought I started in [transcoding 4](#transcoding_4)). This game is made far less linear by the connections and jumps across the grid structure.  
 "*When it was originally devised Snakes and Ladders was a moral game with virtues in the shape of the ladders, allowing the players to reach heaven quickly, while the vices, in the shape of snakes, forced the player back down.*"([V&A Museum of Childhood](https://www.vam.ac.uk/moc/collections/snakes-and-ladders/))
 ![](/assets/images/snakes_all.jpg)  
->Snakes and Ladders is probably based upon a very old Indian game called Moksha-Patamu, played as early as the 2nd Century.
+>Snakes and Ladders is probably based upon a very old Indian game called Moksha-Patamu, played as early as the 2nd Century. L: a Victorian English board. R: a 19th Century Indian version
 
 ![](/assets/images/Escher_all.jpg)  
 ![](/assets/images/game_levels_.png)  
