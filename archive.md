@@ -738,7 +738,7 @@ My plan is to build this architectural game in 3D and render frames to eventuall
 
 It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.  
 
-![](/assets/images/game_levels_mockup.png)
+![](/assets/images/game_levels_mockup1.png)
 
 *************
 ### Feedback Log
