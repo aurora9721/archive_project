@@ -10,6 +10,7 @@
 >>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
 >>1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
 >>1. [Making a Tool](#making-a-tool)  
+>>1. [Transcoding 6: Making a Game](#transcoding-6:-making-a-game)  
 >>1. [Feedback log](#feedback-log)  
 
 ## IMD/Coding: FNV/Philips Board Game
@@ -704,6 +705,13 @@ The [RSS.app](https://rss.app/) has a function that allows to whitelist and blac
 [![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
 
 *************
+### Transcoding 6: Making a Game  
+
+![](/assets/images/Escher_all.jpg)  
+![](/assets/images/game_levels_.png)  
+
+
+*************
 ### Feedback Log
 > **Feedback 20/02/2020:** *with Martijn*  
 important when selecting it is the material and form of it, for transcoding  
@@ -744,7 +752,7 @@ The tool should be a transcoding and represent the board game
 Originally, it was a tool that should produce a transcoding  
 What digital transcoding do you want to make?  
 In 2 weeks have a rough version/prototype of the game/tool  
-Resolution: Use Twine to take the decision based game to the digital realm. Make the game interactive and make an animated visual for the background. 
+Resolution: Use Twine to take the decision based game to the digital realm. Make the game interactive and make an animated visual for the background.
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
