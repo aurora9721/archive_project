@@ -733,7 +733,9 @@ There's two connections between each level. To visualise, this is a first sketch
 ![](/assets/images/game_levels_.png)  
 
 My plan is to build this architectural game in 3D and render frames to eventually have an animation in videos/gifs. They will show the player's position in the tower as they play the game.  
-It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.
+It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.  
+
+![](/assets/images/game_levels_0003.png)  
 
 *************
 ### Feedback Log
