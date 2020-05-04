@@ -1,5 +1,5 @@
 ![](/assets/images/cover_photo.jpg)
-# LEVELLING A BOARD GAME
+# Levelling a board game: Project Outline
 ## Artefact: FNV/Philips Board Game
 ### Metadata
 | Tag | Data |  
@@ -10,10 +10,10 @@
 | **Medium** | Game
 | **Materials** | Paper, cardboard
 | **Date** | 1975-1999
-|[FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](/assets/images/Board_game_small.png)| Rectangular board game, 30x43cm. Printed in black and red on white, the squares are numbered and some contain illustrations. The logo of the Industriebond FNV is repeated throughout.  
+|![FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](/assets/images/Board_game_small.png)| Rectangular board game, 30x43cm. Printed in black and red on white, the squares are numbered and some contain illustrations. The logo of the Industriebond FNV is repeated throughout.  
 <details>
   <summary>Background Information</summary>
-   
+
 About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen  
 Made by Industriebond FNV (Federation of Dutch Trade Unions)  
 FNV is both a labour union (with different sectors, in this case Industry) and a labour federation (with affiliated independent unions)  
