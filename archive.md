@@ -1,5 +1,4 @@
-# TRANSCODING PROJECT:  
-# Leveling a Board Game
+# LEVELLING* A BOARD GAME
 
 >>#### Table of Contents:  
 >>1. [Background info on the game](#background-information)  
@@ -13,6 +12,9 @@
 >>1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
 >>1. Transcoding 6 + 7 [Making a Game](#making-a-game): Research & development of a new game  
 >>1. [Feedback log](#feedback-log)  
+
+<!-- >>>* *"Levelling", verb, present participle of "level":
+1) Make (something, especially a score in sport) equal or similar.* -->
 
 ## IMD/Coding: FNV/Philips Board Game
 ### Background Information  
