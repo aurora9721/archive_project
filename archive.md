@@ -588,16 +588,16 @@ Jumps back and forth (consequences) visualised:
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
 </details>
 <details>
-<summary><b>Transcoding 4: 3D maze, with movements across board visualised</b></summary>
-1. Outlined the path of the boardgame as a spline on Cinema4D
+<summary><b>Transcoding 4: 3D maze, with movements across board visualised</b></summary>  
+1. Outlined the path of the boardgame as a spline on Cinema4D  
 ![](/assets/images/spline.png)
-2. Extruded it to create a navigable 3D space
+2. Extruded it to create a navigable 3D space  
 ![](/assets/images/extrude.png)
-3. Used arches/tunnels to visualise the links between different parts of the board, the squares that are linked by instructions/conditions.
+3. Used arches/tunnels to visualise the links between different parts of the board, the squares that are linked by instructions/conditions.  
 ![](/assets/images/connections.png)
 ![](/assets/images/connections2.png)
 4. Colour-coded connections based on whether you advance or backtrack in the game:  
-red = forward, blue = backwards, **bold** = drawn.
+red = forward, blue = backwards, **bold** = drawn.  
 ![](/assets/images/connections3.png)
 ![](/assets/images/connections4.png)  
 </details>
