@@ -2,7 +2,7 @@
 ## Artefact: FNV/Philips Board Game
 <!-- ### Background Information   -->
 <details>
-  <summary> *Background Information* </summary>
+  <summary>Background Information</summary>
 
 ![](/assets/images/Board_game_small.png)  
 #### [FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://search.iisg.amsterdam/Record/1037521)  
