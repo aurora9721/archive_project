@@ -589,17 +589,6 @@ After making a decision tree, maybe the natural transition is a system of trigge
 </details>
 <details>
 <summary><b>Transcoding 4: 3D maze, with movements across board visualised</b></summary>
-| Step | Image |  
-|--|--|
-Outlined the path of the boardgame as a spline on Cinema4D | ![](/assets/images/spline.png)
-| Extruded it to create a navigable 3D space | ![](/assets/images/extrude.png)
-| **Type** | Object
-| **Medium** | Game
-| **Materials** | Paper, cardboard
-| **Date** | 1975-1999
-|![FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](/assets/images/Board_game_small.png)| Rectangular board game, 30x43cm. Printed in black and red on white, the squares are numbered and some contain illustrations. The logo of the Industriebond FNV is repeated throughout.
-
-
 1. Outlined the path of the boardgame as a spline on Cinema4D
 ![](/assets/images/spline.png)
 2. Extruded it to create a navigable 3D space
