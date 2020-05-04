@@ -724,6 +724,10 @@ In order to emphasize the levels, I want to go into the realm of 3D and my main 
 ![](/assets/images/Escher_all.jpg)  
 >L-R, T-B: *Belvedere, Waterfall, Relativity, Ascending & Descending,* and *Tower of Babel* by M. C. Escher.  
 
+Contemporary games inspired by Escher's architectural inventions include [Monument Valley](https://www.youtube.com/watch?v=tW2KUxyq8Vg)(2014) and [Echochrome](https://www.youtube.com/watch?v=GybxIwfU4rI)(2008), click their respective names to watch the trailers.  
+
+![](/assets/images/escher_game_inspo.jpg)  
+
 I divided the squares on the board into 3 levels:  
 LEVEL 1: START - 20  
 LEVEL 2: 21 - 40  
@@ -744,6 +748,8 @@ It will be on the background of a text-based game I will build on [**Twine**](ht
 
 ![](/assets/images/game_levels_mockup2.png)
 
+*************
+[Back to Table of Contents](#table-of-contents)  
 *************
 ### Feedback Log
 > **Feedback 20/02/2020:** *with Martijn*  
