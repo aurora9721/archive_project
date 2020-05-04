@@ -17,7 +17,7 @@
   <summary></summary>
 </details>
 
-## IMD/Coding: FNV/Philips Board Game
+## Artefact: FNV/Philips Board Game
 <!-- ### Background Information   -->
 <details>
   <summary>Background Information</summary>
@@ -108,9 +108,8 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 </details>
-
-### Transcoding 1  
-_Transcript of the board game in DUTCH:_  
+<details>
+  <summary>Transcoding 1: Transcript of the board game in Dutch:</summary>
 
 START  
 - 1 dobbelsteen gebruiken
@@ -336,14 +335,9 @@ START
 65.  
 Als u wint, kunt u een prijs afhalen bij de ondernemingsraad, voor 1 November en zolang de voorraad strekt  
 KIES IB Industriebond FNV
-
-
-*************  
-[Back to Table of Contents](#table-of-contents)  
-*************
-
-### Transcoding 2  
-_Transcript of the board game in ENGLISH:_  
+</details>
+<details>
+<summary>Transcoding 2: Transcript of the board game in English</summary>
 
 START  
 - Use 1 die
@@ -570,12 +564,9 @@ START
 65.  
 If you win, you can pick up a prize from the works council before November 1 and while supplies last  
 CHOOSE IB Industriebond FNV  
-
-*************  
-[Back to Table of Contents](#table-of-contents)  
-*************
-
-### Transcoding 3  
+</details>
+<details>
+<summary>Transcoding 3: Mapping decisions and moves across the board</summary>  
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
 List of squares and the jumps made when you fall on them:
@@ -606,12 +597,9 @@ Jumps back and forth (consequences) visualised:
 ![](/assets/images/connection_paths_colour.png)  
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
-
-*************  
-[Back to Table of Contents](#table-of-contents)  
-*************  
-
-### Transcoding 4  
+</details>
+<details>
+<summary>Transcoding 4: 3D maze, with movements across board visualised</summary>
 
 1. Outlined the path of the boardgame as a spline on Cinema4D
 ![](/assets/images/spline.png)
@@ -624,12 +612,10 @@ After making a decision tree, maybe the natural transition is a system of trigge
 red = forward, blue = backwards, **bold** = drawn.
 ![](/assets/images/connections3.png)
 ![](/assets/images/connections4.png)  
+</details>
+<details>
+<summary>Transcoding 5: A worker's manual: do's and don't's</summary>
 
-*************  
-[Back to Table of Contents](#table-of-contents)  
-*************
-
-### Transcoding 5  
 In the workplace, you'll do well if you:  
 - Get coffee for your colleagues/your boss  
 - Take language courses
@@ -656,12 +642,10 @@ In the workplace, you'll do badly if you:
 - Get sick often
 - Let stress get the better of you  
 - Aren't member of a union so it can represent and defend your interests when the government introduces new wage measures  
+</details>
+<details>
+<summary>Making a Tool: First try</summary>
 
-*************  
-[Back to Table of Contents](#table-of-contents)  
-*************
-
-### Making a Tool  
 A tool that shows the state of workers' rights and the role of the unions today.
 I want to use key words such as #workersunion #fnv #unemployment #workhours #wages #socialprotection #paidleave #welfarestate #workersrights ...etc.
 With these keywords I want to be able to scan the headlines of several news sources and pick out related articles that contain those terms and therefore relate to the topic.  
@@ -692,11 +676,9 @@ Also useful:
 *Okay, but can I further filter the RSS feed? How can I implement keywords?*  
 The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
 [![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
-
-*************
-[Back to Table of Contents](#table-of-contents)  
-*************
-### Making a Game  
+</details>
+<details>
+<summary>Transcodings 6 + 7: Making a Game</summary>
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the **Game of Goose**. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
 
@@ -743,7 +725,4 @@ However, like in Escher, nothing is at it seems. The levels of the tower are in 
 It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.  
 
 ![](/assets/images/game_levels_mockup2.png)
-
-*************
-[Back to Table of Contents](#table-of-contents)  
-*************
+</details>
