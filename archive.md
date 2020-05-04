@@ -10,7 +10,7 @@
 >>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
 >>1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
 >>1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
->>1. [Making a Game](#making-a-game): Research and development of a new game as a tool  
+>>1. Transcoding 6 + 7[Making a Game](#making-a-game): Research and development of a new game as a tool  
 >>1. [Feedback log](#feedback-log)  
 
 ## IMD/Coding: FNV/Philips Board Game
@@ -114,7 +114,7 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 - Digitised, cleaned up copy of the game  
 - "Dancing steps" map/step count
 - Promotional posters  
-- Interactive game (site? Unity/C#?)
+- ~Interactive game (site? Unity/C#?)~
 - Oral tradition (myth?)  
 - Ritual  
 - Hieroglyphics  
@@ -729,7 +729,8 @@ In order to emphasize the levels, I want to go into the realm of 3D and my main 
 ![](/assets/images/escher_game_inspo.jpg)  
 >Contemporary games inspired by Escher's architectural inventions include [Monument Valley](https://www.youtube.com/watch?v=tW2KUxyq8Vg) (2014) and [Echochrome](https://www.youtube.com/watch?v=GybxIwfU4rI) (2008), click their respective names to watch the trailers.  
 
-**Reformatting the Game**
+### Transcoding 6: Reformatting the Game
+>Transcoding 6 is the reformatting of the game's text into a decision tree.
 
 I divided the squares on the board into 3 levels:  
 LEVEL 1: START - 20  
@@ -738,6 +739,9 @@ LEVEL 3: 41 - 65
 There's two connections between each level. To visualise, this is a first sketch. I imagined a tower, with 3 levels that are linked by staircases.  
 
 ![](/assets/images/game_levels_.png)  
+
+### Transcoding 7: Building the Game
+>Transcoding 7 is the building of the 3D leveled new game board.
 
 My plan is to build this **architectural game in 3D** and render frames to eventually have an animation in videos/gifs. They will show the player's position in the tower as they play the game on a site.  
 
