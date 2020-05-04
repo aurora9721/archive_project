@@ -1,3 +1,4 @@
+![](/assets/images/cover_photo.jpg) 
 # LEVELLING A BOARD GAME
 ## Artefact: FNV/Philips Board Game
 <!-- ### Background Information   -->
