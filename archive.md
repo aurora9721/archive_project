@@ -10,7 +10,7 @@
 >>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
 >>1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
 >>1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
->>1. Transcoding 6 + 7[Making a Game](#making-a-game): Research and development of a new game as a tool  
+>>1. Transcoding 6 + 7 [Making a Game](#making-a-game): Research & development of a new game  
 >>1. [Feedback log](#feedback-log)  
 
 ## IMD/Coding: FNV/Philips Board Game
