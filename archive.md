@@ -1,22 +1,4 @@
 # LEVELLING A BOARD GAME
-
->>#### Table of Contents:  
->>1. [Background info on the game](#background-information)  
->>1. [Contextual info & research](#context-&-research)   
->>1. [Potential transcodings](#potential-transcodings)  
->>1. [Transcoding 1](#transcoding-1): Transcribing    
->>1. [Transcoding 2](#transcoding-2): Translating   
->>1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
->>1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
->>1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
->>1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
->>1. Transcoding 6 + 7 [Making a Game](#making-a-game): Research & development of a new game  
->>1. [Feedback log](#feedback-log)  
-
-<details>
-  <summary></summary>
-</details>
-
 ## Artefact: FNV/Philips Board Game
 <!-- ### Background Information   -->
 <details>
