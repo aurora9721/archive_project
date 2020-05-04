@@ -12,7 +12,7 @@
 | **Date** | 1975-1999
 |![FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](/assets/images/Board_game_small.png)| Rectangular board game, 30x43cm. Printed in black and red on white, the squares are numbered and some contain illustrations. The logo of the Industriebond FNV is repeated throughout.  
 <details>
-  <summary>Background Information</summary>
+  <summary><b>Background Information</b></summary>
 
 About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen  
 Made by Industriebond FNV (Federation of Dutch Trade Unions)  
