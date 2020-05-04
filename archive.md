@@ -62,7 +62,7 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 *************
 </details>
 <details>
-  <summary>Context & Research</summary>
+  <summary><b>Context & Research</b></summary>
 
 #### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
 
@@ -98,7 +98,7 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 </details>
 <details>
-  <summary>Transcoding 1: Transcript of the board game in Dutch:</summary>
+  <summary><b>Transcoding 1: Transcript of the board game in Dutch:</b></summary>
 
 START  
 - 1 dobbelsteen gebruiken
@@ -326,7 +326,7 @@ Als u wint, kunt u een prijs afhalen bij de ondernemingsraad, voor 1 November en
 KIES IB Industriebond FNV
 </details>
 <details>
-<summary>Transcoding 2: Transcript of the board game in English</summary>
+<summary><b>Transcoding 2: Transcript of the board game in English</b></summary>
 
 START  
 - Use 1 die
@@ -555,7 +555,7 @@ If you win, you can pick up a prize from the works council before November 1 and
 CHOOSE IB Industriebond FNV  
 </details>
 <details>
-<summary>Transcoding 3: Mapping decisions and moves across the board</summary>  
+<summary><b>Transcoding 3: Mapping decisions and moves across the board</b></summary>  
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
 List of squares and the jumps made when you fall on them:
@@ -588,7 +588,7 @@ Jumps back and forth (consequences) visualised:
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
 </details>
 <details>
-<summary>Transcoding 4: 3D maze, with movements across board visualised</summary>
+<summary><b>Transcoding 4: 3D maze, with movements across board visualised</b></summary>
 
 1. Outlined the path of the boardgame as a spline on Cinema4D
 ![](/assets/images/spline.png)
@@ -603,7 +603,7 @@ red = forward, blue = backwards, **bold** = drawn.
 ![](/assets/images/connections4.png)  
 </details>
 <details>
-<summary>Transcoding 5: A worker's manual: do's and don't's</summary>
+<summary><b>Transcoding 5: A worker's manual: do's and don't's</b></summary>
 
 In the workplace, you'll do well if you:  
 - Get coffee for your colleagues/your boss  
@@ -633,7 +633,7 @@ In the workplace, you'll do badly if you:
 - Aren't member of a union so it can represent and defend your interests when the government introduces new wage measures  
 </details>
 <details>
-<summary>Making a Tool: First try</summary>
+<summary><b>Making a Tool: First try</b></summary>
 
 A tool that shows the state of workers' rights and the role of the unions today.
 I want to use key words such as #workersunion #fnv #unemployment #workhours #wages #socialprotection #paidleave #welfarestate #workersrights ...etc.
@@ -667,7 +667,7 @@ The [RSS.app](https://rss.app/) has a function that allows to whitelist and blac
 [![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
 </details>
 <details>
-<summary>Transcodings 6 + 7: Making a Game</summary>
+<summary><b>Transcodings 6 + 7: Making a Game</b></summary>
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the **Game of Goose**. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
 
