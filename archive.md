@@ -805,8 +805,8 @@ Resolution: Use Twine to take the decision based game to the digital realm. Make
 *************
 > **Feedback 04/05/2020:** *with Hannes*  
 To do: make a table for the metadata of the artefact. On markdown you can use gifs! Good idea. And make a banner too.  
-
-
+Take away feedback+potential transcodings (things that are meant for me), editorialise the readme. Maybe make a table for transcoding 4, use fold-outs. Copy the format of the example, bc they need it to be the same for scraping. Metadata table, documentation of artefact.  
+Consider the relationship/link between the two: typography, the union, the insignia of the union/Philips.
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
