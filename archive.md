@@ -19,11 +19,10 @@
 </details>
 
 ## IMD/Coding: FNV/Philips Board Game
-### Background Information  
+<!-- ### Background Information   -->
 <details>
-  <summary>Open for research</summary>
-  Here goes nothing
-</details>
+  <summary>**Background Information**</summary>
+
 ![](/assets/images/Board_game_small.png)  
 #### [FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://search.iisg.amsterdam/Record/1037521)  
 **Board game** (1975-1999) 30x43cm   
@@ -73,8 +72,7 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 > ♦️♦️ Note 2: The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.
 
 *************
-[Back to Table of Contents](#table-of-contents)  
-*************
+</details>
 
 ### Context & Research
 #### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
