@@ -738,7 +738,7 @@ My plan is to build this architectural game in 3D and render frames to eventuall
 
 However, like in Escher, nothing is at it seems. The levels of the tower are in fact separate planes, to highlight how difficult it can be for an employee to rise through the ranks if the structure is designed to stop them from doing so. That's where the unions can step in and look out for the worker and "level the playing field".
 
-![](/assets/images/game_levels_escher.jpg)  
+![](/assets/images/game_levels_angles.jpg)  
 
 It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.  
 
