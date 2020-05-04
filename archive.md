@@ -1,4 +1,5 @@
-# TRANSCODING PROJECT
+# TRANSCODING PROJECT:  
+# Leveling a Board Game
 
 >>#### Table of Contents:  
 >>1. [Background info on the game](#background-information)  
@@ -801,6 +802,8 @@ In 2 weeks have a rough version/prototype of the game/tool
 Resolution: Use Twine to take the decision based game to the digital realm. Make the game interactive and make an animated visual for the background.  
 *************
 > **Feedback 04/05/2020:** *with Hannes*  
+To do: make a table for the metadata of the artefact. On markdown you can use gifs! Good idea. And make a banner too.  
+
 
 *************
 [Back to Table of Contents](#table-of-contents)  
