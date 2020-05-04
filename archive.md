@@ -705,6 +705,8 @@ The [RSS.app](https://rss.app/) has a function that allows to whitelist and blac
 [![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
 
 *************
+[Back to Table of Contents](#table-of-contents)  
+*************
 ### Making a Game  
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the **Game of Goose**. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
@@ -792,7 +794,10 @@ The tool should be a transcoding and represent the board game
 Originally, it was a tool that should produce a transcoding  
 What digital transcoding do you want to make?  
 In 2 weeks have a rough version/prototype of the game/tool  
-Resolution: Use Twine to take the decision based game to the digital realm. Make the game interactive and make an animated visual for the background.
+Resolution: Use Twine to take the decision based game to the digital realm. Make the game interactive and make an animated visual for the background.  
+*************
+> **Feedback 04/05/2020:** *with Hannes*  
+
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
