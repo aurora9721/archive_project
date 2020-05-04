@@ -742,7 +742,7 @@ However, like in Escher, nothing is at it seems. The levels of the tower are in 
 
 It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.  
 
-![](/assets/images/game_levels_mockup1.png)
+![](/assets/images/game_levels_mockup2.png)
 
 *************
 ### Feedback Log
