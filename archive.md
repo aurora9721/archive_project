@@ -1,4 +1,4 @@
-# LEVELLING* A BOARD GAME
+# LEVELLING A BOARD GAME
 
 >>#### Table of Contents:  
 >>1. [Background info on the game](#background-information)  
@@ -13,11 +13,17 @@
 >>1. Transcoding 6 + 7 [Making a Game](#making-a-game): Research & development of a new game  
 >>1. [Feedback log](#feedback-log)  
 
-<!-- >>>* *"Levelling", verb, present participle of "level":
-1) Make (something, especially a score in sport) equal or similar.* -->
+<details>
+  <summary>
+  </summary>
+</details>
 
 ## IMD/Coding: FNV/Philips Board Game
 ### Background Information  
+<details>
+  <summary>Open for research</summary>
+  Here goes nothing
+</details>
 ![](/assets/images/Board_game_small.png)  
 #### [FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://search.iisg.amsterdam/Record/1037521)  
 **Board game** (1975-1999) 30x43cm   
@@ -106,22 +112,6 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 
 *************
 [Back to Table of Contents](#table-of-contents)  
-*************
-### Potential Transcodings  
-
-- ~~Transcribing text~~  
-- ~~Translating text~~  
-- ~~Decision tree~~
-- ~~3D space (snakes and ladders? Escher-like architectures?)~~  
-- ~~A manual~~  
-- Digitised, cleaned up copy of the game  
-- "Dancing steps" map/step count
-- Promotional posters  
-- ~Interactive game (site? Unity/C#?)~
-- Oral tradition (myth?)  
-- Ritual  
-- Hieroglyphics  
-- Manifesto/political pamphlet  
 *************
 ### Transcoding 1  
 _Transcript of the board game in DUTCH:_  
@@ -758,55 +748,6 @@ It will be on the background of a text-based game I will build on [**Twine**](ht
 
 ![](/assets/images/game_levels_mockup2.png)
 
-*************
-[Back to Table of Contents](#table-of-contents)  
-*************
-### Feedback Log
-> **Feedback 20/02/2020:** *with Martijn*  
-important when selecting it is the material and form of it, for transcoding  
-Think about how you'd document it if it were to disappear  
-Facsimile - representative (capturing the form, a copy of it) and interpretative (transcoding its meaning, even if the form/visual language are different)  
-What is the meaning of each of your transcodings?  
-Make it accessible: myth, video game, physical space, ritual  
-What would be the topic(s) that this artefact brings up?  
-*************
-> **Feedback 15/03/2020:** *with Hannes*  
-Interpretative VS Representational  
-Do some more representational transcoding so it becomes more clear where it comes from.  
-☑ To contextualise the artifact  
-First jumps should maybe be representational, still clear where they come from  
-Later jumps can become more abstract  
-Maybe first step is to digitise it, cleaned up  
-Archiving - documenting. How can someone get a mental image of this artefact without seeing it?  
-Check Wikipedia page for an image with all its metadata - How is it structured?  
-☑ Research on FNV + Philips specifically  
-Get in touch with Vincent, he has nice sketches  
-☑ Break down the meaning of the different squares - in digital form w hovers to get some context  
-A game is a system, just like a website- a navigation of information (text, video, links, images (like an advent calendar of information))*[THIS IS GOOD TO TALK TO MARTIJN ABOUT- how can the digital tools help you in this process]*  
-*************  
-> **Feedback 23/03/2020:** *with Martijn*  
-☑ Focus of the game: what is the aim? to capture the ideology of the FNV, or the worker's situation?
-☑ Bring back the background info and original intention.
-☑ Gig economy, deliveroo, airbnb, quarantine + unemployment (what role would unions play in this?)
-Consider: emailing the FNV + Philips
-*************   
-> **Feedback 06/04/2020:** *with Hannes*  
-Anyone you can talk to today who has a important role in the FNV?  
-To link its relevance to today.  
-What is the boardgames position? How do we relate to this in a contemporary way? Both the meaning and the artefact.  
-What is the intention behind each transcoding? What media do you feel like working in atm?  
-*************   
-> **Feedback 20/04/2020:** *with Martijn*  
-The tool should be a transcoding and represent the board game  
-Originally, it was a tool that should produce a transcoding  
-What digital transcoding do you want to make?  
-In 2 weeks have a rough version/prototype of the game/tool  
-Resolution: Use Twine to take the decision based game to the digital realm. Make the game interactive and make an animated visual for the background.  
-*************
-> **Feedback 04/05/2020:** *with Hannes*  
-To do: make a table for the metadata of the artefact. On markdown you can use gifs! Good idea. And make a banner too.  
-Take away feedback+potential transcodings (things that are meant for me), editorialise the readme. Maybe make a table for transcoding 4, use fold-outs. Copy the format of the example, bc they need it to be the same for scraping. Metadata table, documentation of artefact.  
-Consider the relationship/link between the two: typography, the union, the insignia of the union/Philips.
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
