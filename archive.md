@@ -66,13 +66,13 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 *************
 #### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
 
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true)
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true)  
+*Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)  
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_3.png?raw=true)
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_2.png?raw=true)
 
-![](/assets/images/healthy_living.jpg)
 
-*Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
 
-![](/assets/images/Kilpaajo-peli_board_game_1907_game_board.jpg)
 
 [*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)
 
