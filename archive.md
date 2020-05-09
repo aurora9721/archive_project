@@ -589,7 +589,7 @@ Jumps back and forth (consequences) visualised:
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
 
 ### Transcoding 4: 3D maze, with movements across board visualised    
-1[]()
+![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/connections_all.png)
 1. Outlined the path of the boardgame as a spline on Cinema4D  
 ![](/assets/images/spline.png)
 
