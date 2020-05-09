@@ -59,15 +59,11 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 - And *shorter working times*. "In the Netherlands, the average working time per employee decreased from approximately 1.800 hours per year in 1970 to 1.430 in 2016." ([Wikipedia 1](https://nl.wikipedia.org/wiki/Arbeidstijdverkorting), [2](https://en.wikipedia.org/wiki/Incomes_policy#The_Netherlands_and_Belgium))
 - In exchange for *more employment*.  
 
-*♦️ Note 1: Philips remained in operation through the Second World War, they had a factory known as Philips-Kommando in Kamp Vught, a Nazi concentration camp near the town of 's-Hertogenbosch. They employed prisioners and offered them protection, saving nearly 400 lives. However, it also has to be noted that Philips remaining open through the war period was key to their survival as a company.*  
+♦️ Note 1: *Philips remained in operation through the Second World War, they had a factory known as Philips-Kommando in Kamp Vught, a Nazi concentration camp near the town of 's-Hertogenbosch. They employed prisioners and offered them protection, saving nearly 400 lives. However, it also has to be noted that Philips remaining open through the war period was key to their survival as a company.*  
 
-*♦️♦️ Note 2: The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.*
+♦️♦️ Note 2: *The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.*
 
 *************
-</details>
-<details>
-  <summary><b>Context & Research</b></summary>
-
 #### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
 
 ![](/assets/images/healthy_living.jpg)
@@ -100,7 +96,7 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 ([Progress in Play: Board Games and the Meaning of History](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/))  
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
-</details>
+
 <details>
   <summary><b>Transcoding 1: Transcript of the board game in Dutch:</b></summary>
 
@@ -329,6 +325,7 @@ START
 Als u wint, kunt u een prijs afhalen bij de ondernemingsraad, voor 1 November en zolang de voorraad strekt  
 KIES IB Industriebond FNV
 </details>
+
 <details>
 <summary><b>Transcoding 2: Transcript of the board game in English</b></summary>
 
@@ -558,8 +555,8 @@ START
 If you win, you can pick up a prize from the works council before November 1 and while supplies last  
 CHOOSE IB Industriebond FNV  
 </details>
-<details>
-<summary><b>Transcoding 3: Mapping decisions and moves across the board</b></summary>  
+
+### Transcoding 3: Mapping decisions and moves across the board  
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
 List of squares and the jumps made when you fall on them:
@@ -590,10 +587,9 @@ Jumps back and forth (consequences) visualised:
 ![](/assets/images/connection_paths_colour.png)  
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
-</details>
-<details>
-<summary><b>Transcoding 4: 3D maze, with movements across board visualised</b></summary>  
 
+### Transcoding 4: 3D maze, with movements across board visualised    
+1[]()
 1. Outlined the path of the boardgame as a spline on Cinema4D  
 ![](/assets/images/spline.png)
 
@@ -608,7 +604,7 @@ After making a decision tree, maybe the natural transition is a system of trigge
 red = forward, blue = backwards, **bold** = drawn.  
 ![](/assets/images/connections3.png)
 ![](/assets/images/connections4.png)  
-</details>
+
 <details>
 <summary><b>Transcoding 5: A worker's manual: do's and don't's</b></summary>
 
