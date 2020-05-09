@@ -66,6 +66,8 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 *************
 #### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
 
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true)
+
 ![](/assets/images/healthy_living.jpg)
 
 *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
