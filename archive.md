@@ -1,35 +1,42 @@
 ![](/assets/images/cover_photo.jpg)
-# Levelling a board game: Project Outline
-## Artefact: FNV/Philips Board Game
+# A LEVEL PLAYING FIELD
+#### Table of Contents:  
+1. [Background info on the game](#background-information)  
+1. [Contextual info & research](#context-&-research)   
+1. [Potential transcodings](#potential-transcodings)  
+1. [Transcoding 1](#transcoding-1): Transcribing    
+1. [Transcoding 2](#transcoding-2): Translating   
+1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
+1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
+1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
+1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
+1. Transcoding 6 + 7 [Making a Game](#making-a-game): Research & development of a new game  
+1. [Feedback log](#feedback-log)  
+
+## Artefact: FNV/Philips Board Game  
+
+This game is made by Industriebond FNV (Federation of Dutch Trade Unions), specifically aimed at the workers of Philips Telecommunicatie Industrie (P.T.I.) Hilversum/Huizen.   
+FNV is both a labour union (with different sectors, in this case Industry) and a labour federation (with affiliated independent unions). The aim of the game is to encourage  "workers' participation", maybe to inform, educate or propose ideas.  
+Print on paper and stuck to cardboard, probably not very durable. The amount of writing on it can limit its "lifespan", as it might become impossible to interpret out of context or too far in the future if language were to change.  
+
 ### Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [IISG BG D29/200](https://search.iisg.amsterdam/Record/1037521)
-| **Physical Description** | Rectangular board game
+| **Physical Description** | Rectangular board game, print on paper and stuck to cardboard
 | **Type** | Object
 | **Medium** | Game
 | **Materials** | Paper, cardboard
 | **Date** | 1975-1999
 |![FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](/assets/images/Board_game_small.png)| Rectangular board game, 30x43cm. Printed in black and red on white, the squares are numbered and some contain illustrations. The logo of the Industriebond FNV is repeated throughout.  
-<details>
-  <summary><b>Background Information</b></summary>
 
-About Philips Telecommunicatie Industrie (P.T.I.) Hilversum / Huizen  
-Made by Industriebond FNV (Federation of Dutch Trade Unions)  
-FNV is both a labour union (with different sectors, in this case Industry) and a labour federation (with affiliated independent unions)  
-Aim: "Workers' participation", maybe to inform or educate or propose ideas.  
-Print on paper, probably not very durable. Lifespan: Seems to have a lot of writing on it, might become impossible to interpret out of context or too far in the future if language were to change.  
+### Background Information
 
 **What is the Aim of this Game?**  
 In order to win the game, the player realises they need the support of the FNV.
 
->>**E-mail**  
-Dear Aurora,  
-As the scan in the catalogue is quite bad, I went into the storage area today and photographed the game board. You can find the photograph in the attachment. 
-Since it is all in Dutch, some information on the context: this was likely made to promote the candidate of the FNV (the biggest Dutch trade union federation) in upcoming elections for the Works Council of Philips Telecommunication. It had a stamp on the back saying that it was received in 1984. The various squares on the board all represent different things that could happen at work and which will either give you an advantage or a disadvantage. For example, landing on square 26 (‘You join the FNV’) allows you to move up to square 28, whereas landing on square 15 (‘You have a bad performance review’) will set you back to square 12. A lot of squares are related to the union or the Works Council. The message becomes clearest in the center square, which looks like a small election poster with the words ‘Kies industriebond FNV’ (or: ‘Vote for the FNV Industry Union’) on it.  
-I hope this gives you the information you need! 
-With kind regards, 
-**Tobias van der Knaap**  
+>*"...this was likely made to promote the candidate of the FNV (the biggest Dutch trade union federation) in upcoming elections for the Works Council of Philips Telecommunication. It had a stamp on the back saying that it was received in 1984. The various squares on the board all represent different things that could happen at work and which will either give you an advantage or a disadvantage. For example, landing on square 26 (‘You join the FNV’) allows you to move up to square 28, whereas landing on square 15 (‘You have a bad performance review’) will set you back to square 12. A lot of squares are related to the union or the Works Council. The message becomes clearest in the center square, which looks like a small election poster with the words ‘Kies industriebond FNV’ (or: ‘Vote for the FNV Industry Union’) on it."*
+**— Tobias van der Knaap**  
 ([https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap))  
 Staff Member Public Services and Reading Room  
 Study Room Services Employee  
