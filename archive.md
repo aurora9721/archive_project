@@ -37,7 +37,7 @@ In order to win the game, the player realises they need the support of the FNV.
 
 >*"...this was likely made to promote the candidate of the FNV (the biggest Dutch trade union federation) in upcoming elections for the Works Council of Philips Telecommunication. It had a stamp on the back saying that it was received in 1984. The various squares on the board all represent different things that could happen at work and which will either give you an advantage or a disadvantage. For example, landing on square 26 (‘You join the FNV’) allows you to move up to square 28, whereas landing on square 15 (‘You have a bad performance review’) will set you back to square 12. A lot of squares are related to the union or the Works Council. The message becomes clearest in the center square, which looks like a small election poster with the words ‘Kies industriebond FNV’ (or: ‘Vote for the FNV Industry Union’) on it."*  
 
-[**— Tobias van der Knaap**](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap) (IISG) 
+[**— Tobias van der Knaap**](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap) (IISG)
 
 #### The History of the FNV, labour unions in the Netherlands and how they relate to Philips  
 The IISG dates this object to sometime between 1975-1999. It was received at the IISG in 1984.
@@ -59,9 +59,9 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 - And *shorter working times*. "In the Netherlands, the average working time per employee decreased from approximately 1.800 hours per year in 1970 to 1.430 in 2016." ([Wikipedia 1](https://nl.wikipedia.org/wiki/Arbeidstijdverkorting), [2](https://en.wikipedia.org/wiki/Incomes_policy#The_Netherlands_and_Belgium))
 - In exchange for *more employment*.  
 
-> ♦️ Note 1: Philips remained in operation through the Second World War, they had a factory known as Philips-Kommando in Kamp Vught, a Nazi concentration camp near the town of 's-Hertogenbosch. They employed prisioners and offered them protection, saving nearly 400 lives. However, it also has to be noted that Philips remaining open through the war period was key to their survival as a company.  
+*♦️ Note 1: Philips remained in operation through the Second World War, they had a factory known as Philips-Kommando in Kamp Vught, a Nazi concentration camp near the town of 's-Hertogenbosch. They employed prisioners and offered them protection, saving nearly 400 lives. However, it also has to be noted that Philips remaining open through the war period was key to their survival as a company.*  
 
-> ♦️♦️ Note 2: The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.
+*♦️♦️ Note 2: The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.*
 
 *************
 </details>
