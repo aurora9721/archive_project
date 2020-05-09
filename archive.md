@@ -579,6 +579,7 @@ After making a decision tree, maybe the natural transition is a system of trigge
 1. Outlined the path of the boardgame as a spline on Cinema4D  
 2. Extruded it to create a navigable 3D space  
 3. Used arches/tunnels to visualise the links between different parts of the board, the squares that are linked by instructions/conditions.  
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/connections4.png?raw=true)
 4. Colour-coded connections based on whether you advance or backtrack in the game:  
 red = forward, blue = backwards, **bold** = drawn.  
 
