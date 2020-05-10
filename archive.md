@@ -1,4 +1,4 @@
-![](/assets/images/cover_photo.jpg)
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/cover_photo.jpg?raw=true)
 # A LEVEL PLAYING FIELD
 #### Table of Contents:  
 1. [Background info on the game](#background-information)  
@@ -28,7 +28,7 @@ Print on paper and stuck to cardboard, probably not very durable. The amount of 
 | **Medium** | Game
 | **Materials** | Paper, cardboard
 | **Date** | 1975-1999
-|![FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](/assets/images/Board_game_small.png)| Rectangular board game, 30x43cm. Printed in black and red on white, the squares are numbered and some contain illustrations. The logo of the Industriebond FNV is repeated throughout.  
+|![FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://github.com/aurora9721/archive_project/blob/master/assets/images/Board_game_small.png?raw=true)| Rectangular board game, 30x43cm. Printed in black and red on white, the squares are numbered and some contain illustrations. The logo of the Industriebond FNV is repeated throughout.  
 
 ### Background Information
 
