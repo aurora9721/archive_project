@@ -665,7 +665,7 @@ The [RSS.app](https://rss.app/) has a function that allows to whitelist and blac
 [Back to Table of Contents](#table-of-contents)  
 *************
 
-### Transcodings 6 and 7
+### Transcoding 6 and 7  
 *Making a Game*  
 
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
