@@ -601,37 +601,7 @@ red = forward, blue = backwards, **bold** = drawn.
  Vote for the union |
  Get promoted |
 
- <!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In the workplace, you'll do well if you: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -->
-
- In the workplace, you'll do well if you:  
-- Get coffee for your colleagues/your boss  
-- Take language courses
-- Spend a lot of time with your supervisor
-- Agree with your boss
-- Talk about the workers' union during working hours  
-- Work overtime and the boss knows
-- Make your boss a member of a union
-- Become a union member  
-- Show understanding for the management  
-- Have shorter work hours  
-- Have good ideas  
-- Vote for the union
-- Get promoted  
-
-In the workplace, you'll do badly if you:  
-- You don't participate in work meetings
-- Your assessments aren't favourable
-- Steal company office supplies  
-- Your workspace decor is inappropiate  
-- Hit your boss/colleagues
-- Aren't member of a union so it can protect you in the case of a merger  
-- Complain about your work
-- Get sick often
-- Let stress get the better of you  
-- Aren't member of a union so it can represent and defend your interests when the government introduces new wage measures  
-</details>
-<details>
-<summary><b>Making a Tool: First try</b></summary>
+### Making a Tool: First try  
 
 A tool that shows the state of workers' rights and the role of the unions today.
 I want to use key words such as #workersunion #fnv #unemployment #workhours #wages #socialprotection #paidleave #welfarestate #workersrights ...etc.
@@ -655,40 +625,40 @@ RSS is written in XML"
 "RSS is a way for website authors to publish notifications of new content on their website. This content may include newscasts, blog posts, weather reports, and podcasts.  
 To publish these notifications, the website author creates a text file with the XML file extension for the RSS feed that contains the title, description, and link for each post on the site. Then, the website author uses this XML file to add an RSS feed to web pages on the site. The XML file automatically syndicates new content through this RSS feed in a standard format that displays in any RSS reader.  
 When website visitors subscribe to this RSS feed, they read the new website content in an RSS reader. These RSS readers collect content from multiple XML files, organize the information, and display the content in one application." (for source, click on the image below)  
-[![](/assets/images/RSS_screenshot.jpg)](https://www.lifewire.com/what-is-an-rss-feed-4684568)
+[![](https://github.com/aurora9721/archive_project/blob/master/assets/images/RSS_screenshot.jpg?raw=true)](https://www.lifewire.com/what-is-an-rss-feed-4684568)
 Also useful:  
 -[How to Format RSS: Adding Style to a Feed (CSS)](https://www.lifewire.com/how-to-format-rss-3469302)  
 -[News feeds from the BBC](https://www.bbc.com/news/10628494)  
 
 *Okay, but can I further filter the RSS feed? How can I implement keywords?*  
 The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
-[![](/assets/images/RSS_filter.jpg)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
-</details>
-<details>
-<summary><b>Transcodings 6 + 7: Making a Game</b></summary>
+[![](https://github.com/aurora9721/archive_project/blob/master/assets/images/RSS_filter.jpg?raw=true)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
+
+### Transcodings 6 + 7: Making a Game  
+
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the **Game of Goose**. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
 
-![](/assets/images/goose_all.jpg)  
->L: 18th Century Game of Goose. R: Dutch Game of Goose (Ganzenspel) (1916)
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/goose_all.jpg?raw=true)  
+L: 18th Century Game of Goose. R: Dutch Game of Goose (Ganzenspel) (1916)
 
 However, I was interested in the **professional ladder** becoming a bigger part of the game. As you play, it is clear it has levels but it isn't visualised on the board. I instantly thought of the game **Snakes and Ladders** (following the train of thought I started in [transcoding 4](#transcoding_4)). This game is made far less linear by the connections and jumps across the grid structure.  
 
 "*When it was originally devised Snakes and Ladders was a moral game with virtues in the shape of the ladders, allowing the players to reach heaven quickly, while the vices, in the shape of snakes, forced the player back down.*"([V&A Museum of Childhood](https://www.vam.ac.uk/moc/collections/snakes-and-ladders/))
 
-![](/assets/images/snakes_all.jpg)  
->Snakes and Ladders is probably based upon a very old Indian game called Moksha-Patamu, played as early as the 2nd Century. L: a Victorian English board. R: a 19th Century Indian version
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/snakes_all.jpg?raw=true)  
+Snakes and Ladders is probably based upon a very old Indian game called Moksha-Patamu, played as early as the 2nd Century. L: a Victorian English board. R: a 19th Century Indian version
 
 In order to emphasize the levels, I want to go into the realm of 3D and my main inspiration are Escher's **fantastical architectures** and optical illusions.  
 
-![](/assets/images/Escher_all.jpg)  
->L-R, T-B: *Belvedere, Waterfall, Relativity, Ascending & Descending,* and *Tower of Babel* by M. C. Escher.  
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/Escher_all.jpg?raw=true)  
+L-R, T-B: *Belvedere, Waterfall, Relativity, Ascending & Descending,* and *Tower of Babel* by M. C. Escher.  
 
-![](/assets/images/escher_game_inspo.jpg)  
->Contemporary games inspired by Escher's architectural inventions include [Monument Valley](https://www.youtube.com/watch?v=tW2KUxyq8Vg) (2014) and [Echochrome](https://www.youtube.com/watch?v=GybxIwfU4rI) (2008), click their respective names to watch the trailers.  
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true)  
+Contemporary games inspired by Escher's architectural inventions include [Monument Valley](https://www.youtube.com/watch?v=tW2KUxyq8Vg) (2014) and [Echochrome](https://www.youtube.com/watch?v=GybxIwfU4rI) (2008), click their respective titles to watch the trailers.  
 
 ### Transcoding 6: Reformatting the Game
->Transcoding 6 is the rewriting of the game's text into a decision tree.
+*Transcoding 6 is the rewriting of the game's text into a decision tree.*  
 
 I divided the squares on the board into 3 levels:  
 LEVEL 1: START - 20  
@@ -696,20 +666,19 @@ LEVEL 2: 21 - 40
 LEVEL 3: 41 - 65  
 There's two connections between each level. To visualise, this is a first sketch. I imagined a tower, with 3 levels that are linked by staircases.  
 
-![](/assets/images/game_levels_.png)  
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_.png?raw=true)  
 
 ### Transcoding 7: Building the Game
->Transcoding 7 is the construction of the 3D leveled new game board.
+*Transcoding 7 is the construction of the 3D leveled new game board.*  
 
 My plan is to build this **architectural game in 3D** and render frames to eventually have an animation in videos/gifs. They will show the player's position in the tower as they play the game on a site.  
 
-![](/assets/images/game_levels_0003.png)  
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_0003.png?raw=true)  
 
 However, like in Escher, nothing is at it seems. The levels of the tower are in fact separate planes, to highlight how difficult it can be for an employee to rise through the ranks if the structure is designed to stop them from doing so. That's where the unions can step in and look out for the worker and **"level the playing field".**
 
-![](/assets/images/game_levels_angles.jpg)  
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_angles.jpg?raw=true)  
 
 It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.  
 
-![](/assets/images/game_levels_mockup2.png)
-</details>
+![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true)
