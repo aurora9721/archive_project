@@ -587,20 +587,19 @@ red = forward, blue = backwards, **bold** = drawn.
 
 | In the workplace, you'll do well if you: | In the workplace, you'll do badly if you: |  
 |--|--|
-|
-- Get coffee for your colleagues/your boss  
-- Take language courses
-- Spend a lot of time with your supervisor
-- Agree with your boss
-- Talk about the workers' union during working hours  
-- Work overtime and the boss knows
-- Make your boss a member of a union
-- Become a union member  
-- Show understanding for the management  
-- Have shorter work hours  
-- Have good ideas  
-- Vote for the union
-- Get promoted | Rectangular board game, print on paper and stuck to cardboard
+| Get coffee for your colleagues/your boss  
+ Take language courses  
+ Spend a lot of time with your supervisor  
+ Agree with your boss  
+ Talk about the workers' union during working hours  
+ Work overtime and the boss knows  
+ Make your boss a member of a union  
+ Become a union member  
+ Show understanding for the management  
+ Have shorter work hours  
+ Have good ideas  
+ Vote for the union  
+ Get promoted | Rectangular board game, print on paper and stuck to cardboard
 
 In the workplace, you'll do well if you:  
 - Get coffee for your colleagues/your boss  
