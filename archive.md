@@ -83,6 +83,10 @@ Set in the 1980's, it tells a story of everyday life in Poland at the tail-end o
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
+
 <details>
   <summary><b>Transcoding 1: Transcript of the board game in Dutch</b></summary>
 
@@ -574,6 +578,10 @@ Jumps back and forth (consequences) visualised:
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
 
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
+
 ### Transcoding 4: 3D maze, with movements across board visualised    
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/connections_all.png)
 1. Outlined the path of the boardgame as a spline on Cinema4D  
@@ -582,6 +590,10 @@ After making a decision tree, maybe the natural transition is a system of trigge
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/connections4.png?raw=true)
 4. Colour-coded connections based on whether you advance or backtrack in the game:  
 red = forward, blue = backwards, **bold** = drawn.  
+
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
 
 ### Transcoding 5: A worker's manual: do's and don't's  
 
@@ -600,6 +612,10 @@ red = forward, blue = backwards, **bold** = drawn.
  Have good ideas |
  Vote for the union |
  Get promoted |
+
+ *************
+ [Back to Table of Contents](#table-of-contents)  
+ *************
 
 ### Making a Tool: First try  
 
@@ -633,6 +649,10 @@ Also useful:
 *Okay, but can I further filter the RSS feed? How can I implement keywords?*  
 The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
 [![](https://github.com/aurora9721/archive_project/blob/master/assets/images/RSS_filter.jpg?raw=true)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
+
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
 
 ### Transcodings 6 + 7: Making a Game  
 
@@ -682,3 +702,7 @@ However, like in Escher, nothing is at it seems. The levels of the tower are in 
 It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.  
 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true)
+
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
