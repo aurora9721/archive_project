@@ -2,8 +2,8 @@
 # A LEVEL PLAYING FIELD
 #### Table of Contents:  
 1. [Background info on the game](#background-information)  
+1. [Metadata](#metadata)
 1. [Contextual info & research](#context-&-research)   
-1. [Potential transcodings](#potential-transcodings)  
 1. [Transcoding 1](#transcoding-1): Transcribing    
 1. [Transcoding 2](#transcoding-2): Translating   
 1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
@@ -38,6 +38,8 @@ In order to win the game, the player realises they need the support of the FNV.
 >*"...this was likely made to promote the candidate of the FNV (the biggest Dutch trade union federation) in upcoming elections for the Works Council of Philips Telecommunication. It had a stamp on the back saying that it was received in 1984. The various squares on the board all represent different things that could happen at work and which will either give you an advantage or a disadvantage. For example, landing on square 26 (‘You join the FNV’) allows you to move up to square 28, whereas landing on square 15 (‘You have a bad performance review’) will set you back to square 12. A lot of squares are related to the union or the Works Council. The message becomes clearest in the center square, which looks like a small election poster with the words ‘Kies industriebond FNV’ (or: ‘Vote for the FNV Industry Union’) on it."*  
 
 [**— Tobias van der Knaap**](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap) (IISG)
+
+### Context & Research
 
 #### The History of the FNV, labour unions in the Netherlands and how they relate to Philips  
 The IISG dates this object to sometime between 1975-1999. It was received at the IISG in 1984.
