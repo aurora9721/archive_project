@@ -589,28 +589,28 @@ red = forward, blue = backwards, **bold** = drawn.
 |--|--|
 | Get coffee for your colleagues/your boss | You don't participate in work meetings |
  Take language courses | Your assessments aren't favourable |
- Spend a lot of time with your supervisor  
- Agree with your boss  
- Talk about the workers' union during working hours  
- Work overtime and the boss knows  
- Make your boss a member of a union  
- Become a union member  
- Show understanding for the management  
- Have shorter work hours  
- Have good ideas  
- Vote for the union  
- Get promoted |
+ Spend a lot of time with your supervisor | Steal company office supplies |
+ Agree with your boss | Your workspace decor is inappropiate |
+ Talk about the workers' union during working hours | Hit your boss/colleagues |
+ Work overtime and the boss knows | Aren't member of a union so it can protect you in the case of a merger |
+ Make your boss a member of a union | Complain about your work |
+ Become a union member | Get sick often |
+ Show understanding for the management | Let stress get the better of you |
+ Have shorter work hours | Aren't member of a union so it can represent and defend your interests when the government introduces new wage measures |
+ Have good ideas | |
+ Vote for the union | |
+ Get promoted | |
 
 
 
- Steal company office supplies  
- Your workspace decor is inappropiate  
- Hit your boss/colleagues  
- Aren't member of a union so it can protect you in the case of a merger  
- Complain about your work  
- Get sick often  
- Let stress get the better of you  
- Aren't member of a union so it can represent and defend your interests when the government introduces new wage measures |
+
+
+
+
+
+
+
+
 
  In the workplace, you'll do well if you:  
 - Get coffee for your colleagues/your boss  
