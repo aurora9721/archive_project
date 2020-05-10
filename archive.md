@@ -3,7 +3,7 @@
 #### Table of Contents:  
 1. [Background info on the game](#background-information)  
 1. [Metadata](#metadata)
-1. [Contextual info & research](#context-&-research)   
+1. [Context & Research](#context-&-research)   
 1. [Transcoding 1](#transcoding-1): Transcribing    
 1. [Transcoding 2](#transcoding-2): Translating   
 1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
