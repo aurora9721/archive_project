@@ -548,7 +548,12 @@ If you win, you can pick up a prize from the works council before November 1 and
 CHOOSE IB Industriebond FNV  
 </details>
 
-### Transcoding 3: Mapping decisions and moves across the board  
+*************
+[Back to Table of Contents](#table-of-contents)  
+*************
+
+### Transcoding 3
+*Mapping decisions and moves across the board*  
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
 List of squares and the jumps made when you fall on them:
@@ -584,7 +589,9 @@ After making a decision tree, maybe the natural transition is a system of trigge
 [Back to Table of Contents](#table-of-contents)  
 *************
 
-### Transcoding 4: 3D maze, with movements across board visualised    
+### Transcoding 4  
+*3D maze, with movements across board visualised*  
+  
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/connections_all.png)
 1. Outlined the path of the boardgame as a spline on Cinema4D  
 2. Extruded it to create a navigable 3D space  
