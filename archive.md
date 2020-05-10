@@ -597,19 +597,9 @@ red = forward, blue = backwards, **bold** = drawn.
  Become a union member | Get sick often |
  Show understanding for the management | Let stress get the better of you |
  Have shorter work hours | Aren't member of a union so it can represent and defend your interests when the government introduces new wage measures |
- Have good ideas | |
- Vote for the union | |
- Get promoted | |
-
-
-
-
-
-
-
-
-
-
+ Have good ideas |
+ Vote for the union |
+ Get promoted |
 
 
  In the workplace, you'll do well if you:  
