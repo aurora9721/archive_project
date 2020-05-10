@@ -3,7 +3,7 @@
 #### Table of Contents:  
 1. [Background info on the game](#background-information)  
 1. [Metadata](#metadata)
-1. [Context & Research](#context-&-research)   
+1. [Context and Research](#context-and-research)   
 1. [Transcoding 1](#transcoding-1): Transcribing    
 1. [Transcoding 2](#transcoding-2): Translating   
 1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
@@ -39,7 +39,7 @@ In order to win the game, the player realises they need the support of the FNV.
 
 [**— Tobias van der Knaap**](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap) (IISG)
 
-### Context & Research
+### Context and Research
 
 #### The History of the FNV, labour unions in the Netherlands and how they relate to Philips  
 The IISG dates this object to sometime between 1975-1999. It was received at the IISG in 1984.
