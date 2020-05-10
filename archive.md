@@ -587,8 +587,8 @@ red = forward, blue = backwards, **bold** = drawn.
 
 | In the workplace, you'll do well if you: | In the workplace, you'll do badly if you: |  
 |--|--|
-| Get coffee for your colleagues/your boss  
- Take language courses  
+| Get coffee for your colleagues/your boss | You don't participate in work meetings |
+ Take language courses | Your assessments aren't favourable |
  Spend a lot of time with your supervisor  
  Agree with your boss  
  Talk about the workers' union during working hours  
@@ -599,8 +599,10 @@ red = forward, blue = backwards, **bold** = drawn.
  Have shorter work hours  
  Have good ideas  
  Vote for the union  
- Get promoted | You don't participate in work meetings  
- Your assessments aren't favourable  
+ Get promoted |
+
+
+
  Steal company office supplies  
  Your workspace decor is inappropiate  
  Hit your boss/colleagues  
