@@ -4,12 +4,12 @@
 1. [Background info on the game](#background-information)  
 1. [Metadata](#metadata)
 1. [Context and Research](#context-and-research)   
-1. [Transcoding 1 + 2](#transcoding-1-+-2): Transcribing and Translating  
+1. [Transcoding 1 and 2](#transcoding-1-and-2): Transcribing and Translating  
 1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
 1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
 1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
 1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
-1. Transcoding 6 + 7 [Making a Game](#making-a-game): Research & development of a new game  
+1. Transcoding 6 and 7 [Making a Game](#making-a-game): Research & development of a new game  
 1. [Feedback log](#feedback-log)  
 
 ## Artefact: FNV/Philips Board Game  
@@ -88,7 +88,7 @@ Set in the 1980's, it tells a story of everyday life in Poland at the tail-end o
 [Back to Table of Contents](#table-of-contents)  
 *************
 
-### Transcoding 1 + 2
+### Transcoding 1 and 2
 <details>
   <summary><b>Transcoding 1: Transcript of the board game in Dutch</b></summary>
 
