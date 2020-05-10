@@ -10,7 +10,6 @@
 1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
 1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
 1. [Transcoding 6 and 7](#transcoding-6-and-7): Research & development of making a game  
-1. [Feedback log](#feedback-log)  
 
 ## Artefact: FNV/Philips Board Game  
 
