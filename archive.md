@@ -9,7 +9,7 @@
 1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
 1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
 1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
-1. Transcoding 6 and 7 [Making a Game](#making-a-game): Research & development of a new game  
+1. [Transcoding 6 and 7](#transcoding-6-and-7): Research & development of making a game  
 1. [Feedback log](#feedback-log)  
 
 ## Artefact: FNV/Philips Board Game  
@@ -627,7 +627,8 @@ red = forward, blue = backwards, **bold** = drawn.
  [Back to Table of Contents](#table-of-contents)  
  *************
 
-### Making a Tool: First try  
+### Making a Tool  
+*First try and exploring possibilities*  
 
 A tool that shows the state of workers' rights and the role of the unions today.
 I want to use key words such as #workersunion #fnv #unemployment #workhours #wages #socialprotection #paidleave #welfarestate #workersrights ...etc.
@@ -664,7 +665,8 @@ The [RSS.app](https://rss.app/) has a function that allows to whitelist and blac
 [Back to Table of Contents](#table-of-contents)  
 *************
 
-### Transcodings 6 + 7: Making a Game  
+### Transcodings 6 and 7
+*Making a Game*  
 
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the **Game of Goose**. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
