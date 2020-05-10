@@ -84,7 +84,7 @@ Set in the 1980's, it tells a story of everyday life in Poland at the tail-end o
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 
 <details>
-  <summary><b>Transcoding 1: Transcript of the board game in Dutch:</b></summary>
+  <summary><b>Transcoding 1: Transcript of the board game in Dutch</b></summary>
 
 START  
 - 1 dobbelsteen gebruiken
@@ -583,8 +583,24 @@ After making a decision tree, maybe the natural transition is a system of trigge
 4. Colour-coded connections based on whether you advance or backtrack in the game:  
 red = forward, blue = backwards, **bold** = drawn.  
 
-<details>
-<summary><b>Transcoding 5: A worker's manual: do's and don't's</b></summary>
+### Transcoding 5: A worker's manual: do's and don't's  
+
+| In the workplace, you'll do well if you: | In the workplace, you'll do badly if you: |  
+|--|--|
+|
+- Get coffee for your colleagues/your boss  
+- Take language courses
+- Spend a lot of time with your supervisor
+- Agree with your boss
+- Talk about the workers' union during working hours  
+- Work overtime and the boss knows
+- Make your boss a member of a union
+- Become a union member  
+- Show understanding for the management  
+- Have shorter work hours  
+- Have good ideas  
+- Vote for the union
+- Get promoted | Rectangular board game, print on paper and stuck to cardboard
 
 In the workplace, you'll do well if you:  
 - Get coffee for your colleagues/your boss  
