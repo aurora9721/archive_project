@@ -714,6 +714,12 @@ It will be on the background of a text-based game I will build on [**Twine**](ht
 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true)
 
+### Finalising the Game  
+
+The text was made up of short statements on each square. I adapted it into a decision tree format, making scenarios out of the statements and dividing them into 3 levels. Depending on your answers, it is easier or hard to pass on to the next level.
+
+
+
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
