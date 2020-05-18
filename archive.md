@@ -721,7 +721,7 @@ I write the script separately and then put it into passages on Twine. On Twine, 
 
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/twine_ss.png)  
 
-In the background, there's a visualisation of the levels of the game (of the professional ladder) as a tower with staircases. A bright spot marks where the player is at the moment, and as they go up levels, the visuals will change accordingly.  
+In the background, there's a visualisation of the levels of the game (of the professional ladder) as a tower with staircases. A bright spot marks where the player is at the moment, and as they go up levels, the visuals will change accordingly. The clock tower symbolises the workhours, as everything that happens in this game takes place then.  
 
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/tower_bg_gif.gif)
 
