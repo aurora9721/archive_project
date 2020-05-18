@@ -725,6 +725,14 @@ In the background, there's a visualisation of the levels of the game (of the pro
 
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/tower_bg_gif.gif)
 
+The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I chose based on the fact that the board game is all written out by hand. Every so ofen, the player might fall into an empty square which just contains the FNV Industriebond logo. I substituted that with "Sponsored Messages" that appear in-between questions.
+
+![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_1.jpg)
+
+![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_2.jpg)
+
+![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_3.jpg)
+
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
