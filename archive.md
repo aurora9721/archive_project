@@ -1,4 +1,4 @@
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/cover_photo.jpg?raw=true)
+![](https://raw.githubusercontent.com/aurora9721/level_the_playing_field/master/assets/images/cover_photo1.jpg)
 # A LEVEL PLAYING FIELD
 #### Table of Contents:  
 1. [Background info on the game](#background-information)  
