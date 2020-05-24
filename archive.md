@@ -740,5 +740,6 @@ The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I c
 
 ### Play the Game
 
-Click here to download and play the game
+Click here to download and play the game  
 ![LEVEL THE PLAYING FIELD]()
+<a id="raw-url" href="https://github.com/aurora9721/level_the_playing_field/blob/master/LEVEL_THE_PLAYING_FIELD.html">Download FILE</a>
