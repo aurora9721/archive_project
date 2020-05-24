@@ -741,4 +741,4 @@ The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I c
 ### Play the Game
 
 Click here to download and play the game:  
-![LEVEL THE PLAYING FIELD](https://we.tl/t-QGfO1JEHgI)  
+[LEVEL THE PLAYING FIELD](https://we.tl/t-QGfO1JEHgI)  
