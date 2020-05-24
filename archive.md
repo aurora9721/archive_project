@@ -737,3 +737,8 @@ The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I c
 *************
 [Back to Table of Contents](#table-of-contents)  
 *************
+
+### Play the Game
+
+Click here to download and play the game
+![LEVEL THE PLAYING FIELD]()
