@@ -11,7 +11,7 @@
 1. [Making a Tool](#makingatool): First explorations into what the tool could be  
 1. [Transcoding 6 and 7](#transcoding6and7): Research & development of making a game  
 1. [Play the Game](#playthegame): "LEVEL THE PLAYING FIELD"  
-
+<!-- The links on this TOC won't work in Markdown/Github. For them to work, add dashes instead of the missing spaces...also in the back to table of contents links. -->
 ## Artefact: FNV/Philips Board Game  
 
 This game is made by Industriebond FNV (Federation of Dutch Trade Unions), specifically aimed at the workers of Philips Telecommunicatie Industrie (P.T.I.) Hilversum/Huizen.   
