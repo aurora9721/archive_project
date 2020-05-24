@@ -5,9 +5,9 @@
 1. [Metadata](#metadata)
 1. [Context and Research](#context-and-research)   
 1. [Transcoding 1 and 2](#transcoding-1-and-2): Transcribing and Translating  
-1. [Transcoding 3](#transcoding-3): Decisions- back and forth  
-1. [Transcoding 4](#transcoding-4): 3D maze, with movements across board visualised  
-1. [Transcoding 5](#transcoding-5): A worker's manual: do's and don't's  
+1. [Transcoding 3](#transcoding3): Decisions- back and forth  
+1. [Transcoding 4](#transcoding4): 3D maze, with movements across board visualised  
+1. [Transcoding 5](#transcoding5): A worker's manual: do's and don't's  
 1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
 1. [Transcoding 6 and 7](#transcoding-6-and-7): Research & development of making a game  
 1. [Play the Game](#play-the-game): "LEVEL THE PLAYING FIELD"  
