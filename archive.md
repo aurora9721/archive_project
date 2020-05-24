@@ -740,11 +740,5 @@ The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I c
 
 ### Play the Game
 
-Click here to download and play the game  
-![LEVEL THE PLAYING FIELD]()  
-
-<a download="LEVEL_THE_PLAYING_FIELD.html" href="/path/to/image" title="ImageName">
-    <img alt="ImageName" src="/path/to/image">
-</a>
-
-<a id="raw-url" href="https://raw.githubusercontent.com/aurora9721/level_the_playing_field/master/LEVEL_THE_PLAYING_FIELD.html">Download FILE</a>
+Click here to download and play the game:  
+![LEVEL THE PLAYING FIELD](https://we.tl/t-QGfO1JEHgI)  
