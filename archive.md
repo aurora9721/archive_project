@@ -1,16 +1,16 @@
 ![](https://raw.githubusercontent.com/aurora9721/level_the_playing_field/master/assets/images/cover_photo1.jpg)
 # A LEVEL PLAYING FIELD
 #### Table of Contents:  
-1. [Background info on the game](#background-information)  
+1. [Background info on the game](#backgroundinformation)  
 1. [Metadata](#metadata)
-1. [Context and Research](#context-and-research)   
-1. [Transcoding 1 and 2](#transcoding-1-and-2): Transcribing and Translating  
+1. [Context and Research](#contextandresearch)   
+1. [Transcoding 1 and 2](#transcoding1and2): Transcribing and Translating  
 1. [Transcoding 3](#transcoding3): Decisions- back and forth  
 1. [Transcoding 4](#transcoding4): 3D maze, with movements across board visualised  
 1. [Transcoding 5](#transcoding5): A worker's manual: do's and don't's  
-1. [Making a Tool](#making-a-tool): First explorations into what the tool could be  
-1. [Transcoding 6 and 7](#transcoding-6-and-7): Research & development of making a game  
-1. [Play the Game](#play-the-game): "LEVEL THE PLAYING FIELD"  
+1. [Making a Tool](#makingatool): First explorations into what the tool could be  
+1. [Transcoding 6 and 7](#transcoding6and7): Research & development of making a game  
+1. [Play the Game](#playthegame): "LEVEL THE PLAYING FIELD"  
 
 ## Artefact: FNV/Philips Board Game  
 
@@ -85,7 +85,7 @@ Set in the 1980's, it tells a story of everyday life in Poland at the tail-end o
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 
 *************
-[Back to Table of Contents](#table-of-contents)  
+[Back to Table of Contents](#tableofcontents)  
 *************
 
 ### Transcoding 1 and 2
@@ -549,7 +549,7 @@ CHOOSE IB Industriebond FNV
 </details>
 
 *************
-[Back to Table of Contents](#table-of-contents)  
+[Back to Table of Contents](#tableofcontents)  
 *************
 
 ### Transcoding 3
@@ -586,7 +586,7 @@ Jumps back and forth (consequences) visualised:
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
 
 *************
-[Back to Table of Contents](#table-of-contents)  
+[Back to Table of Contents](#tableofcontents)  
 *************
 
 ### Transcoding 4  
@@ -601,7 +601,7 @@ After making a decision tree, maybe the natural transition is a system of trigge
 red = forward, blue = backwards, **bold** = drawn.  
 
 *************
-[Back to Table of Contents](#table-of-contents)  
+[Back to Table of Contents](#tableofcontents)  
 *************
 
 ### Transcoding 5  
@@ -624,7 +624,7 @@ red = forward, blue = backwards, **bold** = drawn.
  Get promoted |
 
  *************
- [Back to Table of Contents](#table-of-contents)  
+ [Back to Table of Contents](#tableofcontents)  
  *************
 
 ### Making a Tool  
@@ -662,7 +662,7 @@ The [RSS.app](https://rss.app/) has a function that allows to whitelist and blac
 [![](https://github.com/aurora9721/archive_project/blob/master/assets/images/RSS_filter.jpg?raw=true)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
 
 *************
-[Back to Table of Contents](#table-of-contents)  
+[Back to Table of Contents](#tableofcontents)  
 *************
 
 ### Transcoding 6 and 7  
@@ -735,7 +735,7 @@ The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I c
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_3.jpg)
 
 *************
-[Back to Table of Contents](#table-of-contents)  
+[Back to Table of Contents](#tableofcontents)  
 *************
 
 ### Play the Game
