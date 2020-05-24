@@ -742,3 +742,6 @@ The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I c
 
 Click here to download and play the game:  
 [LEVEL THE PLAYING FIELD](https://we.tl/t-QGfO1JEHgI)  
+
+And here for a link to a playthrough video:  
+[PLAYTHROUGH](https://www.dropbox.com/s/nfs8k83q7ef7g0f/LEVEL_THE_PLAYING_FIELD_letsplay.mp4?dl=0)
