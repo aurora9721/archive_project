@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/aurora9721/level_the_playing_field/master/assets/images/cover_photo1.jpg)
-# A LEVEL PLAYING FIELD
+# A Level Playing Field
 #### Table of Contents:  
 1. [Background info on the game](#backgroundinformation)  
 1. [Metadata](#metadata)
@@ -740,7 +740,6 @@ The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I c
 
 ### Play the Game
 
-Click here to download and play the game:  
-LEVEL THE PLAYING FIELD [on Wetransfer](https://we.tl/t-QGfO1JEHgI) and [on Dropbox](https://www.dropbox.com/s/9b1d8fgumpc8yfw/LEVEL_THE_PLAYING_FIELD.html?dl=0)  
-
-[And here for a link to a playthrough video.](https://www.dropbox.com/s/nfs8k83q7ef7g0f/LEVEL_THE_PLAYING_FIELD_letsplay.mp4?dl=0)
+[Play online](https://aurora9721.github.io/level_the_playing_field/)  
+Download [from Wetransfer](https://we.tl/t-QGfO1JEHgI) or [from Dropbox](https://www.dropbox.com/s/9b1d8fgumpc8yfw/LEVEL_THE_PLAYING_FIELD.html?dl=0)  
+[Or watch a playthrough video.](https://www.dropbox.com/s/nfs8k83q7ef7g0f/LEVEL_THE_PLAYING_FIELD_letsplay.mp4?dl=0)  
