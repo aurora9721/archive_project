@@ -1,18 +1,19 @@
 ![](https://raw.githubusercontent.com/aurora9721/level_the_playing_field/master/assets/images/cover_photo1.jpg)
-# A Level Playing Field
-#### Table of Contents:  
-1. [Background info on the game](#backgroundinformation)  
-1. [Metadata](#metadata)
-1. [Context and Research](#contextandresearch)   
-1. [Transcoding 1 and 2](#transcoding1and2): Transcribing and Translating  
-1. [Transcoding 3](#transcoding3): Decisions- back and forth  
-1. [Transcoding 4](#transcoding4): 3D maze, with movements across board visualised  
-1. [Transcoding 5](#transcoding5): A worker's manual: do's and don't's  
-1. [Making a Tool](#makingatool): First explorations into what the tool could be  
-1. [Transcoding 6 and 7](#transcoding6and7): Research & development of making a game  
-1. [Play the Game](#playthegame): "LEVEL THE PLAYING FIELD"  
-<!-- The links on this TOC won't work in Markdown/Github. For them to work, add dashes instead of the missing spaces...also in the back to table of contents links. -->
-## Artefact: FNV/Philips Board Game  
+# A Level Playing Field  
+
+### Table of Contents:
+1. [Background info on the game](#backgroundinformation)
+2. [Metadata](#metadata)
+3. [Context and Research](#contextandresearch)
+4. [Transcoding 1 and 2](#transcoding1and2): Transcribing and Translating
+5. [Transcoding 3](#transcoding3): Decisions- back and forth
+6. [Transcoding 4](#transcoding4): 3D maze, with movements across board visualised
+7. [Transcoding 5](#transcoding5): A worker's manual: do's and don't's
+8. [Making a Tool](#makingatool): First explorations into what the tool could be
+9. [Transcoding 6 and 7](#transcoding6and7): Research & development of making a game
+10. [Play the Game](#playthegame): "LEVEL THE PLAYING FIELD"  
+
+## Artefact: FNV/Philips Board Game
 
 This game is made by Industriebond FNV (Federation of Dutch Trade Unions), specifically aimed at the workers of Philips Telecommunicatie Industrie (P.T.I.) Hilversum/Huizen.   
 FNV is both a labour union (with different sectors, in this case Industry) and a labour federation (with affiliated independent unions). The aim of the game is to encourage  "workers' participation", maybe to inform, educate or propose ideas.  
