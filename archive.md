@@ -11,7 +11,7 @@
 7. [Transcoding 5](#transcoding5): A worker's manual: do's and don't's
 8. [Making a Tool](#makingatool): First explorations into what the tool could be
 9. [Transcoding 6 and 7](#transcoding6and7): Research & development of making a game
-10. [Play the Game](#playthegame): "LEVEL THE PLAYING FIELD"  
+10. [Finalising the Game](#finalisingthegame): "LEVEL THE PLAYING FIELD"  
 
 ## Artefact: FNV/Philips Board Game
 
