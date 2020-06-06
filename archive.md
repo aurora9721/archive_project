@@ -85,10 +85,6 @@ Set in the 1980's, it tells a story of everyday life in Poland at the tail-end o
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 
-*************
-[Back to Table of Contents](#tableofcontents)  
-*************
-
 ### Transcoding 1 and 2
 <details>
   <summary><b>Transcoding 1: Transcript of the board game in Dutch</b></summary>
@@ -549,10 +545,6 @@ If you win, you can pick up a prize from the works council before November 1 and
 CHOOSE IB Industriebond FNV  
 </details>
 
-*************
-[Back to Table of Contents](#tableofcontents)  
-*************
-
 ### Transcoding 3
 *Mapping decisions and moves across the board*  
 
@@ -586,10 +578,6 @@ Jumps back and forth (consequences) visualised:
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
 
-*************
-[Back to Table of Contents](#tableofcontents)  
-*************
-
 ### Transcoding 4  
 *3D maze, with movements across board visualised*  
 
@@ -600,10 +588,6 @@ After making a decision tree, maybe the natural transition is a system of trigge
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/connections4.png?raw=true)
 4. Colour-coded connections based on whether you advance or backtrack in the game:  
 red = forward, blue = backwards, **bold** = drawn.  
-
-*************
-[Back to Table of Contents](#tableofcontents)  
-*************
 
 ### Transcoding 5  
 *A worker's manual: do's and don't's*  
@@ -623,10 +607,6 @@ red = forward, blue = backwards, **bold** = drawn.
  Have good ideas |
  Vote for the union |
  Get promoted |
-
- *************
- [Back to Table of Contents](#tableofcontents)  
- *************
 
 ### Making a Tool  
 *First try and exploring possibilities*  
@@ -661,10 +641,6 @@ Also useful:
 *Okay, but can I further filter the RSS feed? How can I implement keywords?*  
 The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
 [![](https://github.com/aurora9721/archive_project/blob/master/assets/images/RSS_filter.jpg?raw=true)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
-
-*************
-[Back to Table of Contents](#tableofcontents)  
-*************
 
 ### Transcoding 6 and 7  
 *Making a Game*  
@@ -717,7 +693,13 @@ It will be on the background of a text-based game I will build on [**Twine**](ht
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true)
 
 ### Finalising the Game  
+*************
+## Play the Game  
 
+[Play online](https://aurora9721.github.io/level_the_playing_field/)  
+Download [from Wetransfer](https://we.tl/t-QGfO1JEHgI) or [from Dropbox](https://www.dropbox.com/s/9b1d8fgumpc8yfw/LEVEL_THE_PLAYING_FIELD.html?dl=0)  
+[Or watch a playthrough video.](https://www.dropbox.com/s/nfs8k83q7ef7g0f/LEVEL_THE_PLAYING_FIELD_letsplay.mp4?dl=0)  
+**************
 The text was made up of short statements on each square. I adapted it into a decision tree format, making scenarios out of the statements and dividing them into 3 levels. Depending on your answers, it is easier or hard to pass on to the next level.  
 I write the script separately and then put it into passages on Twine. On Twine, I can style it and give it functions with CSS and Javascript.
 
@@ -734,13 +716,3 @@ The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I c
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_2.jpg)
 
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_3.jpg)
-
-*************
-[Back to Table of Contents](#tableofcontents)  
-*************
-
-### Play the Game
-
-[Play online](https://aurora9721.github.io/level_the_playing_field/)  
-Download [from Wetransfer](https://we.tl/t-QGfO1JEHgI) or [from Dropbox](https://www.dropbox.com/s/9b1d8fgumpc8yfw/LEVEL_THE_PLAYING_FIELD.html?dl=0)  
-[Or watch a playthrough video.](https://www.dropbox.com/s/nfs8k83q7ef7g0f/LEVEL_THE_PLAYING_FIELD_letsplay.mp4?dl=0)  
