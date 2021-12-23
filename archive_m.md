@@ -585,8 +585,6 @@ I break down the content of the game and the consequences for specific actions, 
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/Escher_all.jpg?raw=true" width="600" align="right"/>   
 
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true" width="300" align="left"/>
-
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the <b>Game of Goose</b>. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
 
@@ -607,6 +605,8 @@ In order to emphasize the levels, I want to go into the realm of 3D and my main 
 L-R, T-B: <i>Belvedere, Waterfall, Relativity, Ascending & Descending,</i> and <i>Tower of Babel</i> by M. C. Escher.  
 
 Contemporary games inspired by Escher's architectural inventions include <a href="https://www.youtube.com/watch?v=tW2KUxyq8Vg">Monument Valley</a> (2014) and <a href="https://www.youtube.com/watch?v=GybxIwfU4rI">Echochrome</a> (2008), click their respective titles to watch the trailers.  
+
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true" width="350" align="left"/>
 
 ## Making a Game: Reformatting
 
