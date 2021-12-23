@@ -573,7 +573,7 @@ I break down the content of the game and the consequences for specific actions, 
  Vote for the union |
  Get promoted |
 
-## Making a Game
+## Making a Game: Inspiration
 
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the **Game of Goose**. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
@@ -596,8 +596,9 @@ L-R, T-B: *Belvedere, Waterfall, Relativity, Ascending & Descending,* and *Tower
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true)  
 Contemporary games inspired by Escher's architectural inventions include [Monument Valley](https://www.youtube.com/watch?v=tW2KUxyq8Vg) (2014) and [Echochrome](https://www.youtube.com/watch?v=GybxIwfU4rI) (2008), click their respective titles to watch the trailers.  
 
-## Transcoding 6: Reformatting the Game
-*Transcoding 6 is the rewriting of the game's text into a decision tree.*  
+## Making a Game: Reformatting
+
+I decide to rewrite the game's quite linear narrative into a decision tree where the choices you make take you on different paths. I do this in order to highlight the real "ladder-like" structure of the teachings of the game. If you do X you will succeed (by being a good union member and worker), if you do Y you will not.
 
 I divided the squares on the board into 3 levels:  
 LEVEL 1: START - 20  
@@ -607,8 +608,7 @@ There's two connections between each level. To visualise, this is a first sketch
 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_.png?raw=true)  
 
-## Transcoding 7: Building the Game
-*Transcoding 7 is the construction of the 3D leveled new game board.*  
+## Making a Game: Building
 
 My plan is to build this **architectural game in 3D** and render frames to eventually have an animation in videos/gifs. They will show the player's position in the tower as they play the game on a site.  
 
