@@ -606,7 +606,7 @@ L-R, T-B: <i>Belvedere, Waterfall, Relativity, Ascending & Descending,</i> and <
 
 Contemporary games inspired by Escher's architectural inventions include <a href="https://www.youtube.com/watch?v=tW2KUxyq8Vg">Monument Valley</a> (2014) and <a href="https://www.youtube.com/watch?v=GybxIwfU4rI">Echochrome</a> (2008), click their respective titles to watch the trailers.  
 
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true" width="400" align="left"/>
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true" width="380" align="left"/>
 
 ## Making a Game: Reformatting
 
