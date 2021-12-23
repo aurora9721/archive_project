@@ -637,19 +637,20 @@ It will be on the background of a text-based game I will build on [**Twine**](ht
 The text was made up of short statements on each square. I adapted it into a decision tree format, making scenarios out of the statements and dividing them into 3 levels. Depending on your answers, it is easier or hard to pass on to the next level.  
 I write the script separately and then put it into passages on Twine. On Twine, I can style it and give it functions with CSS and Javascript.
 
-![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/twine_ss.png)  
+![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/twine_ss.png) 
+
+<img src="https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/tower_bg_gif.gif" width="600" align="right"/>
+
+<img src="https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_1.jpg" width="600" align="right"/>
+
+<img src="https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_2.jpg" width="600" align="right"/>
+
+<img src="https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_3.jpg" width="600" align="right"/>
 
 In the background, there's a visualisation of the levels of the game (of the professional ladder) as a tower with staircases. A bright spot marks where the player is at the moment, and as they go up levels, the visuals will change accordingly. The clock tower symbolises the workhours, as everything that happens in this game takes place then.  
 
-![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/tower_bg_gif.gif)
-
 The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I chose based on the fact that the board game is all written out by hand. Every so often, the player might fall into an empty square which just contains the FNV Industriebond logo. I substituted that with "Sponsored Messages" that appear in-between questions.
 
-![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_1.jpg)
-
-![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_2.jpg)
-
-![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_3.jpg)
 
 *************
 ## Play the Game  
