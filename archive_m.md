@@ -30,7 +30,7 @@ Print on paper and stuck to cardboard, probably not very durable. The amount of 
 | **Date** | 1975-1999
 |![FNV Game for Promotion during Elections of Works Council of Philips Telecommunication](https://github.com/aurora9721/archive_project/blob/master/assets/images/Board_game_small.png?raw=true)| Rectangular board game, 30x43cm. Printed in black and red on white, the squares are numbered and some contain illustrations. The logo of the Industriebond FNV is repeated throughout.  
 
-### Background Information
+## Background Information
 
 **What is the Aim of this Game?**  
 In order to win the game, the player realises they need the support of the FNV.
@@ -39,7 +39,7 @@ In order to win the game, the player realises they need the support of the FNV.
 
 [**— Tobias van der Knaap**](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap) (IISG)
 
-### Context and Research
+## Context and Research
 
 #### The History of the FNV, labour unions in the Netherlands and how they relate to Philips  
 The IISG dates this object to sometime between 1975-1999. It was received at the IISG in 1984.
@@ -66,7 +66,7 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 ♦️♦️ Note 2: *The Wassenaar Agreement also marks the begining of the polder model in the Netherlands. "The polder model (poldermodel) is consensus decision-making, based on the acclaimed Dutch version of consensus-based economic and social policy making in the 1980s and 1990s." ([Wikipedia](https://en.wikipedia.org/wiki/Polder_model)) The key characteristic is tri-partite cooperation between 1) employers' organisations, 2) labour unions (like the FNV) and 3) the government.*
 
 *************
-#### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
+### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true)  
 L: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
@@ -85,7 +85,7 @@ Set in the 1980's, it tells a story of everyday life in Poland at the tail-end o
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 
-### Transcripts of the Game
+## Transcripts of the Game
 <details>
   <summary><b>Transcript of the board game in Dutch</b></summary>
 
@@ -545,7 +545,7 @@ If you win, you can pick up a prize from the works council before November 1 and
 CHOOSE IB Industriebond FNV  
 </details>
 
-### Mapping decisions and moves across the board
+## Mapping decisions and moves across the board
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
 Below are the jumps forward and backwards (consequences) visualised:
@@ -553,7 +553,9 @@ Below are the jumps forward and backwards (consequences) visualised:
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
 
-### A worker's manual: do's and don't's
+## A worker's manual: do's and don't's
+
+I break down the content of the game and the consequences for specific actions, then list them accordingly: which choices are rewarded and which are punished?
 
 | In the workplace, you'll do well if you: | In the workplace, you'll do badly if you: |  
 |--|--|
@@ -571,42 +573,7 @@ After making a decision tree, maybe the natural transition is a system of trigge
  Vote for the union |
  Get promoted |
 
-### Making a Tool  
-*First try and exploring possibilities*  
-
-A tool that shows the state of workers' rights and the role of the unions today.
-I want to use key words such as #workersunion #fnv #unemployment #workhours #wages #socialprotection #paidleave #welfarestate #workersrights ...etc.
-With these keywords I want to be able to scan the headlines of several news sources and pick out related articles that contain those terms and therefore relate to the topic.  
-
-***How can I do this?***  
-*Using an API?*  
-["An API [...] is the part of the server that receives requests and sends responses. APIs allow [the user] to complete the action without leaving your website."](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)  
-
-*A filtered RSS feed?*  
-*What's an RSS feed in the first place?*  
-"What is RSS?
-RSS stands for Really Simple Syndication  
-RSS allows you to syndicate your site content  
-RSS defines an easy way to share and view headlines and content  
-RSS files can be automatically updated  
-RSS allows personalized views for different sites  
-RSS is written in XML"  
--[w3schools: XML RSS](https://www.w3schools.com/xml/xml_rss.asp)  
-
-"RSS is a way for website authors to publish notifications of new content on their website. This content may include newscasts, blog posts, weather reports, and podcasts.  
-To publish these notifications, the website author creates a text file with the XML file extension for the RSS feed that contains the title, description, and link for each post on the site. Then, the website author uses this XML file to add an RSS feed to web pages on the site. The XML file automatically syndicates new content through this RSS feed in a standard format that displays in any RSS reader.  
-When website visitors subscribe to this RSS feed, they read the new website content in an RSS reader. These RSS readers collect content from multiple XML files, organize the information, and display the content in one application." (for source, click on the image below)  
-[![](https://github.com/aurora9721/archive_project/blob/master/assets/images/RSS_screenshot.jpg?raw=true)](https://www.lifewire.com/what-is-an-rss-feed-4684568)
-Also useful:  
--[How to Format RSS: Adding Style to a Feed (CSS)](https://www.lifewire.com/how-to-format-rss-3469302)  
--[News feeds from the BBC](https://www.bbc.com/news/10628494)  
-
-*Okay, but can I further filter the RSS feed? How can I implement keywords?*  
-The [RSS.app](https://rss.app/) has a function that allows to whitelist and blacklist keywords.
-[![](https://github.com/aurora9721/archive_project/blob/master/assets/images/RSS_filter.jpg?raw=true)](https://rss.app/blog/how-to-filter-rss-feeds-5lGj8o)  
-
-### Transcoding 6 and 7  
-*Making a Game*  
+## Making a Game
 
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the **Game of Goose**. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
@@ -629,7 +596,7 @@ L-R, T-B: *Belvedere, Waterfall, Relativity, Ascending & Descending,* and *Tower
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true)  
 Contemporary games inspired by Escher's architectural inventions include [Monument Valley](https://www.youtube.com/watch?v=tW2KUxyq8Vg) (2014) and [Echochrome](https://www.youtube.com/watch?v=GybxIwfU4rI) (2008), click their respective titles to watch the trailers.  
 
-### Transcoding 6: Reformatting the Game
+## Transcoding 6: Reformatting the Game
 *Transcoding 6 is the rewriting of the game's text into a decision tree.*  
 
 I divided the squares on the board into 3 levels:  
@@ -640,7 +607,7 @@ There's two connections between each level. To visualise, this is a first sketch
 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_.png?raw=true)  
 
-### Transcoding 7: Building the Game
+## Transcoding 7: Building the Game
 *Transcoding 7 is the construction of the 3D leveled new game board.*  
 
 My plan is to build this **architectural game in 3D** and render frames to eventually have an animation in videos/gifs. They will show the player's position in the tower as they play the game on a site.  
@@ -655,7 +622,7 @@ It will be on the background of a text-based game I will build on [**Twine**](ht
 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true)
 
-### Finalising the Game  
+## Finalising the Game  
 *************
 ## Play the Game  
 
