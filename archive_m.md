@@ -596,8 +596,10 @@ However, I was interested in the <b>professional ladder</b> becoming a bigger pa
 
 "*When it was originally devised Snakes and Ladders was a moral game with virtues in the shape of the ladders, allowing the players to reach heaven quickly, while the vices, in the shape of snakes, forced the player back down.*"([V&A Museum of Childhood](https://www.vam.ac.uk/moc/collections/snakes-and-ladders/))
 
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/snakes_all.jpg?raw=true)  
-Snakes and Ladders is probably based upon a very old Indian game called Moksha-Patamu, played as early as the 2nd Century. L: a Victorian English board. R: a 19th Century Indian version
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/snakes_all.jpg?raw=true" width="600" align="right">
+Snakes and Ladders is probably based upon a very old Indian game called Moksha-Patamu, played as early as the 2nd Century.
+L: a Victorian English board.
+<br>R: a 19th Century Indian version
 
 In order to emphasize the levels, I want to go into the realm of 3D and my main inspiration are Escher's **fantastical architectures** and optical illusions.  
 
