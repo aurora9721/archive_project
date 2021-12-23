@@ -549,31 +549,7 @@ CHOOSE IB Industriebond FNV
 *Mapping decisions and moves across the board*  
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
-List of squares and the jumps made when you fall on them:
-- 4 -> 8
-- 5 -> 3
-- 7 -> 12
-- **9 -> 6**
-- 13 -> 17
-- 15 -> 12
-- 19 -> 25
-- 21 -> 22
-- 23 -> 8
-- **24 -> 34**
-- **26 -> 28**
-- 35 -> 39
-- **40 -> 3**
-- 41 -> 34
-- **42 -> 43**
-- 44 -> 34
-- 48 -> 54
-- **53 -> 39**
-- 58 -> 6
-- 59 -> START
-- **61 -> 56**
-- 64 -> 46  
-
-Jumps back and forth (consequences) visualised:
+Below are the jumps forward and backwards (consequences) visualised:
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/connection_paths_colour.png?raw=true)  
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
