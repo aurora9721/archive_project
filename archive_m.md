@@ -622,14 +622,6 @@ It will be on the background of a text-based game I will build on [**Twine**](ht
 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true)
 
-## Finalising the Game  
-*************
-## Play the Game  
-
-[Play online](https://aurora9721.github.io/level_the_playing_field/)  
-Download [from Wetransfer](https://we.tl/t-QGfO1JEHgI) or [from Dropbox](https://www.dropbox.com/s/9b1d8fgumpc8yfw/LEVEL_THE_PLAYING_FIELD.html?dl=0)  
-[Or watch a playthrough video.](https://www.dropbox.com/s/nfs8k83q7ef7g0f/LEVEL_THE_PLAYING_FIELD_letsplay.mp4?dl=0)  
-**************
 The text was made up of short statements on each square. I adapted it into a decision tree format, making scenarios out of the statements and dividing them into 3 levels. Depending on your answers, it is easier or hard to pass on to the next level.  
 I write the script separately and then put it into passages on Twine. On Twine, I can style it and give it functions with CSS and Javascript.
 
@@ -639,10 +631,18 @@ In the background, there's a visualisation of the levels of the game (of the pro
 
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/tower_bg_gif.gif)
 
-The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I chose based on the fact that the board game is all written out by hand. Every so ofen, the player might fall into an empty square which just contains the FNV Industriebond logo. I substituted that with "Sponsored Messages" that appear in-between questions.
+The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I chose based on the fact that the board game is all written out by hand. Every so often, the player might fall into an empty square which just contains the FNV Industriebond logo. I substituted that with "Sponsored Messages" that appear in-between questions.
 
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_1.jpg)
 
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_2.jpg)
 
 ![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/game_wip_3.jpg)
+
+*************
+## Play the Game  
+
+[Play online](https://aurora9721.github.io/level_the_playing_field/)  
+Download [from Wetransfer](https://we.tl/t-QGfO1JEHgI) or [from Dropbox](https://www.dropbox.com/s/9b1d8fgumpc8yfw/LEVEL_THE_PLAYING_FIELD.html?dl=0)  
+[Or watch a playthrough video.](https://www.dropbox.com/s/nfs8k83q7ef7g0f/LEVEL_THE_PLAYING_FIELD_letsplay.mp4?dl=0)  
+**************
