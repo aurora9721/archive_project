@@ -67,27 +67,26 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 
 *************
 ### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
-<!-- <figure> -->
+
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true" width="600" align="right"/>
 <figcaption align="right">
-L: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
-R: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014) "East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."
+TOP LEFT: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
+TOP RIGHT: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014) "East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."
 </figcaption>
-<!-- </figure> -->
-<!-- ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true)   -->
-
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_3.png?raw=true" width="600" align="right"/>
 <figcaption align="right">
-L: [*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)  
-R: *Het Stoomboots Spel* [promotional] (A. Daane, Rotterdam, 1800's)
+MIDDLE LEFT: [*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)  
+MIDDLE RIGHT: *Het Stoomboots Spel* [promotional] (A. Daane, Rotterdam, 1800's)
 </figcaption>
- 
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_2.png?raw=true)
-L: [*Quantified*](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf) (Janna Ullrich, 2018)  
+
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_2.png?raw=true" width="600" align="right"/>
+<figcaption align="right">
+BOTTOM LEFT: [*Quantified*](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf) (Janna Ullrich, 2018)  
 In this cooperative board game, a player’s behaviour accumulates a social credit score, leaving traces of data behind for governments and corporations to analyse. Players start from different positions on the social ladder – as refugees, unemployed or employed – with unequal access to human rights, in a world in which everyone’s behavior is constantly surveilled and analysed. By gamifying the complex challenges of migration, participants learn through role playing.  
-R: [*Kolejka (Queue)*](https://boardgamegeek.com/boardgame/85325/kolejka) [historical, educational] (Karol Madaj, Poland, 2011)
+BOTTOM RIGHT: [*Kolejka (Queue)*](https://boardgamegeek.com/boardgame/85325/kolejka) [historical, educational] (Karol Madaj, Poland, 2011)
 Set in the 1980's, it tells a story of everyday life in Poland at the tail-end of the Communist era. The players' task appears to be simple: They have to send their family members out to various stores on the game board to buy all the items on their shopping list. The problem is, however, that the shelves in the five neighborhood stores are empty.  
+</figcaption>
 
 [**Progress in Play: Board Games and the Meaning of History**](https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/)  
 
