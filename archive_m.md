@@ -587,7 +587,7 @@ I break down the content of the game and the consequences for specific actions, 
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the <b>Game of Goose</b>. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
 
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/goose_all.jpg?raw=true/" width="600" align="right">  
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/goose_all.jpg?raw=true/" width="600" align="right"/>  
 L: 18th Century Game of Goose.
 <br>
 R: Dutch Game of Goose (Ganzenspel) (1916)
@@ -596,14 +596,14 @@ However, I was interested in the <b>professional ladder</b> becoming a bigger pa
 
 "*When it was originally devised Snakes and Ladders was a moral game with virtues in the shape of the ladders, allowing the players to reach heaven quickly, while the vices, in the shape of snakes, forced the player back down.*"([V&A Museum of Childhood](https://www.vam.ac.uk/moc/collections/snakes-and-ladders/))
 
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/snakes_all.jpg?raw=true" width="600" align="right">
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/snakes_all.jpg?raw=true" width="600" align="right"/>
 Snakes and Ladders is probably based upon a very old Indian game called Moksha-Patamu, played as early as the 2nd Century.
-L: a Victorian English board.
+<br>L: a Victorian English board.
 <br>R: a 19th Century Indian version
 
 In order to emphasize the levels, I want to go into the realm of 3D and my main inspiration are Escher's **fantastical architectures** and optical illusions.  
 
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/Escher_all.jpg?raw=true)  
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/Escher_all.jpg?raw=true" width="600" align="right"/>   
 L-R, T-B: *Belvedere, Waterfall, Relativity, Ascending & Descending,* and *Tower of Babel* by M. C. Escher.  
 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true)  
