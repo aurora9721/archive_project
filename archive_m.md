@@ -579,15 +579,11 @@ I break down the content of the game and the consequences for specific actions, 
  Get promoted |
 
 ## Making a Game: Visual Research
-<!--
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_3.png?raw=true" width="600" align="right"/>
-<b>MIDDLE LEFT</b>: <a href="https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg"> <i>Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")</i> (1907)</a>  
- -->
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/goose_all.jpg?raw=true/" width="600" align="right"/>  
 
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
 The format of the game is very straight forward, it's the <b>Game of Goose</b>. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
 
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/goose_all.jpg?raw=true/" width="600" align="right"/>  
 L: 18th Century Game of Goose.
 <br>
 R: Dutch Game of Goose (Ganzenspel) (1916)
