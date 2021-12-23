@@ -68,6 +68,7 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 *************
 ### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
 
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true" width="150"/> 
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true)  
 L: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
 R: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014)
