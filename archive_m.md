@@ -67,11 +67,13 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 
 *************
 ### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
-
+<figure>
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true" width="500" align="right"/>
+<figcaption align="left">L: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
+R: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014)</figcaption>
+</figure>
 <!-- ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true)   -->
-L: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
-R: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014)
+
 "East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."   
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_3.png?raw=true)  
 L: [*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)  
