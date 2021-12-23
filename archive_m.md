@@ -578,15 +578,21 @@ I break down the content of the game and the consequences for specific actions, 
  Vote for the union |
  Get promoted |
 
-## Making a Game: Inspiration
+## Making a Game: Visual Research
+<!--
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_3.png?raw=true" width="600" align="right"/>
+<b>MIDDLE LEFT</b>: <a href="https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg"> <i>Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")</i> (1907)</a>  
+ -->
 
 Upon analysing and breaking down the statements on the board, it became clear that this game is not just about the importance of joining a union, but also implies that you will climb your professional ladder if you do.
-The format of the game is very straight forward, it's the **Game of Goose**. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
+The format of the game is very straight forward, it's the <b>Game of Goose</b>. The board is formatted in a concentric spiral and it is pretty linear in narrative.  
 
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/goose_all.jpg?raw=true)  
-L: 18th Century Game of Goose. R: Dutch Game of Goose (Ganzenspel) (1916)
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/goose_all.jpg?raw=true/" width="600" align="right">  
+L: 18th Century Game of Goose.
+<br>
+R: Dutch Game of Goose (Ganzenspel) (1916)
 
-However, I was interested in the **professional ladder** becoming a bigger part of the game. As you play, it is clear it has levels but it isn't visualised on the board. I instantly thought of the game **Snakes and Ladders** (following the train of thought I started in [transcoding 4](#transcoding_4)). This game is made far less linear by the connections and jumps across the grid structure.  
+However, I was interested in the <b>professional ladder</b> becoming a bigger part of the game. As you play, it is clear it has levels but it isn't visualised on the board. I instantly thought of the game <b>Snakes and Ladders</b> (following the train of thought I started in <a href="#Mapping_decisions_and_moves_across_the_board">by mapping the moves across the board</a>). This game is made far less linear by the connections and jumps across the grid structure.  
 
 "*When it was originally devised Snakes and Ladders was a moral game with virtues in the shape of the ladders, allowing the players to reach heaven quickly, while the vices, in the shape of snakes, forced the player back down.*"([V&A Museum of Childhood](https://www.vam.ac.uk/moc/collections/snakes-and-ladders/))
 
