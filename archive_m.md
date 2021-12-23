@@ -618,7 +618,7 @@ LEVEL 2: 21 - 40
 LEVEL 3: 41 - 65  
 There's two connections between each level. To visualise, this is a first sketch. I imagined a tower, with 3 levels that are linked by staircases.  
 
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_.png?raw=true)  
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_.png?raw=true" width="600" align="left"/>  
 
 ## Making a Game: Building
 
