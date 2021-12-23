@@ -607,9 +607,10 @@ In order to emphasize the levels, I want to go into the realm of 3D and my main 
 
 <br>L-R, T-B: <i>Belvedere, Waterfall, Relativity, Ascending & Descending,</i> and <i>Tower of Babel</i> by M. C. Escher.  
 
+
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true"width="600" align="right"/>
 
-Contemporary games inspired by Escher's architectural inventions include [Monument Valley](https://www.youtube.com/watch?v=tW2KUxyq8Vg) (2014) and [Echochrome](https://www.youtube.com/watch?v=GybxIwfU4rI) (2008), click their respective titles to watch the trailers.  
+Contemporary games inspired by Escher's architectural inventions include <a href="https://www.youtube.com/watch?v=tW2KUxyq8Vg">Monument Valley</a> (2014) and <a href="https://www.youtube.com/watch?v=GybxIwfU4rI">Echochrome</a> (2008), click their respective titles to watch the trailers.  
 
 ## Making a Game: Reformatting
 
