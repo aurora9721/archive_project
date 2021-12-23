@@ -85,8 +85,8 @@ In this cooperative board game, a player’s behaviour accumulates a social cred
 <b>BOTTOM RIGHT</b>: <a href="https://boardgamegeek.com/boardgame/85325/kolejka"><i>Kolejka (Queue)</i></a> [historical, educational] (Karol Madaj, Poland, 2011)
 Set in the 1980's, it tells a story of everyday life in Poland at the tail-end of the Communist era. The players' task appears to be simple: They have to send their family members out to various stores on the game board to buy all the items on their shopping list. The problem is, however, that the shelves in the five neighborhood stores are empty.  
 
-<br>
-<a href="https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/"><b>Progress in Play: Board Games and the Meaning of History<b></a>  
+<br><br>
+<a href="https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/"><b>Progress in Play: Board Games and the Meaning of History</b></a>  
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
 
