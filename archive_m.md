@@ -70,24 +70,24 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true" width="600" align="right"/>
 <!-- <figcaption align="right"> -->
-**TOP LEFT**: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
+<b>TOP LEFT</b>: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
 <br>
-**TOP RIGHT**: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014) "East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."
+<b>TOP RIGHT</b>: <a href="https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk"><i>Wir sind das Volk!</i></a> [educational] (Richard Sivél, Peer Sylvester, Germany, 2014) "East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."
 <!-- </figcaption> -->
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_3.png?raw=true" width="600" align="right"/>
 <!-- <figcaption align="right"> -->
-**MIDDLE LEFT**: [*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)  
+<b>MIDDLE LEFT</b>: [*Kilpaajo-peli-lautapeli vuodelta ("A racing game board game of the year")* (1907)](https://commons.wikimedia.org/wiki/File:Kilpaajo-peli_board_game_1907_game_board.jpg)  
 <br>
-**MIDDLE RIGHT**: *Het Stoomboots Spel* [promotional] (A. Daane, Rotterdam, 1800's)
+<b>MIDDLE RIGHT</b>: *Het Stoomboots Spel* [promotional] (A. Daane, Rotterdam, 1800's)
 <!-- </figcaption> -->
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_2.png?raw=true" width="600" align="right"/>
 <!-- <figcaption align="right"> -->
-**BOTTOM LEFT**: [*Quantified*](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf) (Janna Ullrich, 2018)  
+<b>BOTTOM LEFT</b>: [*Quantified*](http://www.jannaullrich.de/popup/portfolio_jannaullrich_201806.pdf) (Janna Ullrich, 2018)  
 In this cooperative board game, a player’s behaviour accumulates a social credit score, leaving traces of data behind for governments and corporations to analyse. Players start from different positions on the social ladder – as refugees, unemployed or employed – with unequal access to human rights, in a world in which everyone’s behavior is constantly surveilled and analysed. By gamifying the complex challenges of migration, participants learn through role playing.  
 <br>
-**BOTTOM RIGHT**: [*Kolejka (Queue)*](https://boardgamegeek.com/boardgame/85325/kolejka) [historical, educational] (Karol Madaj, Poland, 2011)
+<b>BOTTOM RIGHT</b>: [*Kolejka (Queue)*](https://boardgamegeek.com/boardgame/85325/kolejka) [historical, educational] (Karol Madaj, Poland, 2011)
 Set in the 1980's, it tells a story of everyday life in Poland at the tail-end of the Communist era. The players' task appears to be simple: They have to send their family members out to various stores on the game board to buy all the items on their shopping list. The problem is, however, that the shelves in the five neighborhood stores are empty.  
 <!-- </figcaption> -->
 
