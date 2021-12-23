@@ -67,12 +67,12 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 
 *************
 ### General Research about Games for Political/Educational/Commercial/Ideological Promotion  
-<figure>
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true" width="500" align="right"/>
+<!-- <figure> -->
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true" width="600" align="right"/>
 <figcaption align="right">L: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
 R: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014) "East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."
 </figcaption>
-</figure>
+<!-- </figure> -->
 <!-- ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true)   -->
 
 
