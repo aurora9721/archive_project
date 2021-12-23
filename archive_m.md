@@ -622,9 +622,9 @@ There's two connections between each level. To visualise, this is a first sketch
 
 ## Making a Game: Building
 
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_0003.png?raw=true" width="600" align="right"/>
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_0003.png?raw=true" width="600" align="right"/><br>
 
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_angles.jpg?raw=true" width="600" align="right"/>    
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_angles.jpg?raw=true" width="600" align="right"/><br>    
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true" width="600" align="right"/>  
 
