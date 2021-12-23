@@ -610,7 +610,7 @@ Contemporary games inspired by Escher's architectural inventions include <a href
 
 ## Making a Game: Reformatting
 
-<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_.png?raw=true" width="600" align="left"/>  
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_.png?raw=true" width="600" align="right"/>  
 
 I decide to rewrite the game's quite linear narrative into a decision tree where the choices you make take you on different paths. I do this in order to highlight the real "ladder-like" structure of the teachings of the game. If you do X you will succeed (by being a good union member and worker), if you do Y you will not.
 
@@ -620,21 +620,19 @@ LEVEL 2: 21 - 40
 LEVEL 3: 41 - 65  
 There's two connections between each level. To visualise, this is a first sketch. I imagined a tower, with 3 levels that are linked by staircases.  
 
-
-
 ## Making a Game: Building
+
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_0003.png?raw=true" width="600" align="right"/>
+
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_angles.jpg?raw=true" width="600" align="right"/>    
+
+<img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true" width="600" align="right"/>  
 
 My plan is to build this **architectural game in 3D** and render frames to eventually have an animation in videos/gifs. They will show the player's position in the tower as they play the game on a site.  
 
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_0003.png?raw=true)  
-
 However, like in Escher, nothing is at it seems. The levels of the tower are in fact separate planes, to highlight how difficult it can be for an employee to rise through the ranks if the structure is designed to stop them from doing so. That's where the unions can step in and look out for the worker and **"level the playing field".**
 
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_angles.jpg?raw=true)  
-
 It will be on the background of a text-based game I will build on [**Twine**](https://twinery.org/), by reformatting the linear progression of the statements into a decision tree.  
-
-![](https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_mockup2.png?raw=true)
 
 The text was made up of short statements on each square. I adapted it into a decision tree format, making scenarios out of the statements and dividing them into 3 levels. Depending on your answers, it is easier or hard to pass on to the next level.  
 I write the script separately and then put it into passages on Twine. On Twine, I can style it and give it functions with CSS and Javascript.
