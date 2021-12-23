@@ -71,7 +71,7 @@ One of Wim Kok's key achievements in his time as chairman of FNV was the **(Akko
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_1.png?raw=true" width="600" align="right"/>
 <figcaption align="right">
 TOP LEFT: *Healthy Living* [educational] (K.W. Lapin & A. S. Berjand, Moscow, 1926)
-TOP RIGHT: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014) "East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."
+<br>TOP RIGHT: [*Wir sind das Volk!*](https://boardgamegeek.com/boardgame/165401/wir-sind-das-volk) [educational] (Richard Sivél, Peer Sylvester, Germany, 2014) "East vs West: as a player, you take the role of East or West Germany. Use your action cards wisely. Build up your economy and increase the living standards of your people. Don’t fall behind, or you will face widespread unrest."
 </figcaption>
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/games_3.png?raw=true" width="600" align="right"/>
