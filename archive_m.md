@@ -605,7 +605,7 @@ Snakes and Ladders is probably based upon a very old Indian game called Moksha-P
 
 In order to emphasize the levels, I want to go into the realm of 3D and my main inspiration are Escher's **fantastical architectures** and optical illusions.  
 
-<br>L-R, T-B: <i>Belvedere, Waterfall, Relativity, Ascending & Descending,</i> and <i>Tower of Babel</i> by M. C. Escher.  
+L-R, T-B: <i>Belvedere, Waterfall, Relativity, Ascending & Descending,</i> and <i>Tower of Babel</i> by M. C. Escher.  
 
 Contemporary games inspired by Escher's architectural inventions include <a href="https://www.youtube.com/watch?v=tW2KUxyq8Vg">Monument Valley</a> (2014) and <a href="https://www.youtube.com/watch?v=GybxIwfU4rI">Echochrome</a> (2008), click their respective titles to watch the trailers.  
 
