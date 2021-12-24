@@ -5,7 +5,7 @@
 1. [Background info on the game](#backgroundinformation)
 2. [Metadata](#metadata)
 3. [Context and Research](#contextandresearch)
-4. [Transcribing and Translating](#transcriptsofthegame): 
+4. [Transcribing and Translating](#transcripts-of-the-game): 
 5. [Transcoding 3](#transcoding3): Decisions- back and forth
 6. [Transcoding 4](#transcoding4): 3D maze, with movements across board visualised
 7. [Transcoding 5](#transcoding5): A worker's manual: do's and don't's
