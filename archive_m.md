@@ -2,16 +2,16 @@
 # A Level Playing Field  
 
 ### Table of Contents:
-1. [Background info on the game](#background-information)
+1. [Background Info on the Game](#background-information)
 2. [Metadata](#metadata)
 3. [Context and Research](#context-and-research)
 4. [Transcribing and Translating](#transcripts-of-the-game)
 5. [Mapping Moves Across the Board](#mapping-decisions-and-moves-across-the-board)
-6. [A worker's manual: do's and don't's](#a-workers-manual-dos-and-donts)
+6. [A Worker's Manual: Do's and Don't's](#a-workers-manual-dos-and-donts)
 7. [Making a Game: Visual Research](#making-a-game-visual-research)
 8. [Making a Game: Reformatting](#making-a-game-reformatting)
-9. [Making a Game: Building](#making-a-game-building): "LEVEL THE PLAYING FIELD"
-10. [Play the Game](#play-the-game)  
+9. [Making a Game: Building](#making-a-game-building):
+10. [Play the Game: Level the Playing Field](#play-the-game)  
 
 ## Artefact: FNV/Philips Board Game
 
