@@ -2,16 +2,16 @@
 # A Level Playing Field  
 
 ### Table of Contents:
-1. [Background info on the game](#backgroundinformation)
+1. [Background info on the game](#background-information)
 2. [Metadata](#metadata)
-3. [Context and Research](#contextandresearch)
-4. [Transcribing and Translating](#transcripts-of-the-game): 
-5. [Transcoding 3](#transcoding3): Decisions- back and forth
-6. [Transcoding 4](#transcoding4): 3D maze, with movements across board visualised
-7. [Transcoding 5](#transcoding5): A worker's manual: do's and don't's
-8. [Making a Tool](#makingatool): First explorations into what the tool could be
-9. [Transcoding 6 and 7](#transcoding6and7): Research & development of making a game
-10. [Finalising the Game](#finalisingthegame): "LEVEL THE PLAYING FIELD"  
+3. [Context and Research](#context-and-research)
+4. [Transcribing and Translating](#transcripts-of-the-game)
+5. [Mapping Moves Across the Board](#mapping-decisions-and-moves-across-the-board)
+6. [A worker's manual: do's and don't's](#a-workers-manual-dos-and-donts)
+7. [Making a Game: Visual Research](#making-a-game-visual-research)
+8. [Making a Game: Reformatting](#making-a-game-reformatting)
+9. [Making a Game: Building](#making-a-game-building): "LEVEL THE PLAYING FIELD"
+10. [Play the Game](#play-the-game)  
 
 ## Artefact: FNV/Philips Board Game
 
