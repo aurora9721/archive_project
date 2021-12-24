@@ -13,9 +13,6 @@
 9. [Making a Game: Building](#making-a-game-building):
 10. [Play the Game: Level the Playing Field](#play-the-game)  
 
-*******
-[Back to Table of Contents](#table-of-contents)
-*******
 
 ## Artefact: FNV/Philips Board Game
 
@@ -42,6 +39,10 @@ In order to win the game, the player realises they need the support of the FNV.
 >*"...this was likely made to promote the candidate of the FNV (the biggest Dutch trade union federation) in upcoming elections for the Works Council of Philips Telecommunication. It had a stamp on the back saying that it was received in 1984. The various squares on the board all represent different things that could happen at work and which will either give you an advantage or a disadvantage. For example, landing on square 26 (‘You join the FNV’) allows you to move up to square 28, whereas landing on square 15 (‘You have a bad performance review’) will set you back to square 12. A lot of squares are related to the union or the Works Council. The message becomes clearest in the center square, which looks like a small election poster with the words ‘Kies industriebond FNV’ (or: ‘Vote for the FNV Industry Union’) on it."*  
 
 [**— Tobias van der Knaap**](https://iisg.amsterdam/en/about/staff/tobias-van-der-knaap) (IISG)
+
+*******
+[Back to Table of Contents](#table-of-contents)
+*******
 
 ## Context and Research
 
@@ -93,6 +94,10 @@ Set in the 1980's, it tells a story of everyday life in Poland at the tail-end o
 <a href="https://publicdomainreview.org/essay/progress-in-play-board-games-and-the-meaning-of-history/"><b>Progress in Play: Board Games and the Meaning of History</b></a>  
 
 "The practice of making games to promote clean living and political progress (with that progress always culminating in an image of the government currently in power) persisted all through the nineteenth century and into the twentieth. The Soviet Union made particularly good use of board games, though in contrast to the French revolutionaries, who were so keen to have citizens rehearse and internalize the events of the revolution, the Soviets were generally more concerned with making sure that the newly urbanized peasantry learned the basics of health and hygiene. [...] It is little wonder that every variety of moral and political regime has put its stamp on a board game or two. There are few pursuits that so perfectly replicate our attempts to imagine the course of progress, which seems so sensible it ought to be inevitable but is nevertheless subject to chance."
+
+*******
+[Back to Table of Contents](#table-of-contents)
+*******
 
 ## Transcripts of the Game
 <details>
@@ -554,6 +559,10 @@ If you win, you can pick up a prize from the works council before November 1 and
 CHOOSE IB Industriebond FNV  
 </details>
 
+*******
+[Back to Table of Contents](#table-of-contents)
+*******
+
 ## Mapping decisions and moves across the board
 
 This game simulates real life, in which the worker's decisions have consequences. These consequences allow you to advance or fall back on the game board, or in your career.  
@@ -561,6 +570,10 @@ Below are the jumps forward and backwards (consequences) visualised:
 ![](https://github.com/aurora9721/archive_project/blob/master/assets/images/connection_paths_colour.png?raw=true)  
 
 After making a decision tree, maybe the natural transition is a system of triggers/events, perhaps in Unity. This is the Unity Manual on [Scripting](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html) and this is the Scripting API entry on [Events](https://docs.unity3d.com/Manual/ScriptingSection.html).
+
+*******
+[Back to Table of Contents](#table-of-contents)
+*******
 
 ## A worker's manual: do's and don't's
 
@@ -581,6 +594,10 @@ I break down the content of the game and the consequences for specific actions, 
  Have good ideas |
  Vote for the union |
  Get promoted |
+
+ *******
+ [Back to Table of Contents](#table-of-contents)
+ *******
 
 ## Making a Game: Visual Research
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/goose_all.jpg?raw=true/" width="600" align="right"/>  
@@ -612,6 +629,10 @@ Contemporary games inspired by Escher's architectural inventions include <a href
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/escher_game_inspo.jpg?raw=true" width="370" align="left"/>
 
+*******
+[Back to Table of Contents](#table-of-contents)
+*******
+
 ## Making a Game: Reformatting
 
 <img src="https://github.com/aurora9721/archive_project/blob/master/assets/images/game_levels_.png?raw=true" width="600" align="right"/>  
@@ -623,6 +644,10 @@ LEVEL 1: START - 20
 LEVEL 2: 21 - 40  
 LEVEL 3: 41 - 65  
 There's two connections between each level. To visualise, this is a first sketch. I imagined a tower, with 3 levels that are linked by staircases.  
+
+*******
+[Back to Table of Contents](#table-of-contents)
+*******
 
 ## Making a Game: Building
 
@@ -655,8 +680,10 @@ In the background, there's a visualisation of the levels of the game (of the pro
 
 The font of choice is Comic Neue, a new cleaner version of Comic Sans, which I chose based on the fact that the board game is all written out by hand. Every so often, the player might fall into an empty square which just contains the FNV Industriebond logo. I substituted that with "Sponsored Messages" that appear in-between questions.
 
+*******
+[Back to Table of Contents](#table-of-contents)
+*******
 
-*************
 ## Play the Game  
 
 [Play online](https://aurora9721.github.io/level_the_playing_field/)  
