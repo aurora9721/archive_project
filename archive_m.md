@@ -13,6 +13,10 @@
 9. [Making a Game: Building](#making-a-game-building):
 10. [Play the Game: Level the Playing Field](#play-the-game)  
 
+*******
+[Back to Table of Contents](#table-of-contents)
+*******
+
 ## Artefact: FNV/Philips Board Game
 
 This game is made by Industriebond FNV (Federation of Dutch Trade Unions), specifically aimed at the workers of Philips Telecommunicatie Industrie (P.T.I.) Hilversum/Huizen.   
