@@ -5,7 +5,7 @@
 1. [Background info on the game](#backgroundinformation)
 2. [Metadata](#metadata)
 3. [Context and Research](#contextandresearch)
-4. [Transcoding 1 and 2](#transcoding1and2): Transcribing and Translating
+4. [Transcribing and Translating](#transcriptsofthegame): 
 5. [Transcoding 3](#transcoding3): Decisions- back and forth
 6. [Transcoding 4](#transcoding4): 3D maze, with movements across board visualised
 7. [Transcoding 5](#transcoding5): A worker's manual: do's and don't's
@@ -637,7 +637,7 @@ It will be on the background of a text-based game I will build on [**Twine**](ht
 The text was made up of short statements on each square. I adapted it into a decision tree format, making scenarios out of the statements and dividing them into 3 levels. Depending on your answers, it is easier or hard to pass on to the next level.  
 I write the script separately and then put it into passages on Twine. On Twine, I can style it and give it functions with CSS and Javascript.
 
-![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/twine_ss.png) 
+![](https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/twine_ss.png)
 
 <img src="https://raw.githubusercontent.com/aurora9721/archive_project/master/assets/images/tower_bg_gif.gif" width="600" align="right"/>
 
